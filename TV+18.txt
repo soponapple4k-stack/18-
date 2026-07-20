@@ -165,3 +165,6 @@ https://media.vdohls.com/7-l46Rvp1_Y9u/video.m3u8
 #EXTINF:-1 tvg-chno="03" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-05-15-222738-400x227.png",🟣 Gattouz0 x Lunasilver
 https://media.vdohls.com/9-5TDxESt_iix/video.m3u8
 
+
+#EXTINF:-1 tvg-chno="04" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-04-10-150843-400x223.png",🟣 Gattouz0 x Onlyping x Djsakura
+https://media.vdohls.com/yFXe-0u_58F7G/video.m3u8
