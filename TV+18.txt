@@ -265,3 +265,9 @@ https://media.vdohls.com/i3xV9a_u-pck6/video.m3u8
 https://media.vdohls.com/2c_VxM-z8CAsa/video.m3u8
 
 
+#EXTINF:-1 tvg-chno="16" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2025/01/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94.jpg",🔴 PM-089 เกมรักซ่อนเงื่อน สาวใสในเงามืด 
+https://media.vdohls.com/AZPKu_Ef-wsZQ/video.m3u8
+
+#EXTINF:-1 tvg-chno="17" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2024/12/3.png",🔴 CUS-1993 ชวนเพื่อนมาเดท 1 วัน 
+https://media.vdohls.com/skuHPd-cm6_sH/video.m3u8
+
