@@ -226,5 +226,8 @@ https://media.vdohls.com/fKnpAAs-u8_Uc/video.m3u8
 #EXTINF:-1 tvg-chno="04" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2025/12/mdsr-0005-5-1759838497-303x188-1-400x248.jpg",🔴 MDSR-0005 เมียสาวโดนผัวเพื่อนจัดหนักสวิงกิ้ง  
 https://media.vdohls.com/8EbJ-8gHwU_jP/video.m3u8
 
-#EXTINF:-1 tvg-chno="05" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2025/12/mdsr-0005-5-1759838497-303x188-1-400x248.jpg",🔴 MDSR-0005 เมียสาวโดนผัวเพื่อนจัดหนักสวิงกิ้ง  
-https://media.vdohls.com/8EbJ-8gHwU_jP/video.m3u8
+#EXTINF:-1 tvg-chno="05" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2025/07/inwporn-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A%E0%B8%88%E0%B8%B5%E0%B8%99-XSJ-100-1-2.jpg",🔴 MD-0270 หยุดเวลาเสร็จเย็ดสาวไซด์ไลน์ 
+https://media.vdohls.com/eVVUcq-PE_xY8/video.m3u8
+
+#EXTINF:-1 tvg-chno="06" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2025/10/cover-t-1-400x225.jpg",🔴 XSJ-100 สามก๊ก ตอนสามวีรบุรุษหลั่งนํ้าร่วมสาบาน
+https://media.vdohls.com/qAAcX-d_rV2W6/video.m3u8
