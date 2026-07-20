@@ -47,6 +47,8 @@ https://media.vdohls.com/YPX-46X_iiN0K/video.m3u8
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/I_XF-b2o4iBgE/video.m3u8
 
+#EXTM3U
+
 #EXTINF:-1 tvg-chno="11" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2024/08/1fsdss00861pl-400x268.png",🟣 FSDSS-861 นักข่าวกลีบอูม ล่าแต้มจนกีฟูมน้ำเยิ้ม
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/TuZ-AaexsK_JM/video.m3u8
@@ -85,11 +87,12 @@ https://media.vdohls.com/Bq-vXl_ItuYz3/video.m3u8
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/om8-uEgOy_Bgl/video.m3u8
 
-#EXTM3U
 
 #EXTINF:-1 tvg-chno="20" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2024/04/mimk00136pl-400x269.png",🟣 MIMK-136 ชวนเพื่อนสนิทเปิดประสบการณ์เซ็ก 
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/Lr-B7_pedgd1W/video.m3u8
+
+#EXTM3U
 
 #EXTINF:-1 tvg-chno="21" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2024/03/adn00426pl-400x269.png",🟣 ADN-426 ซดคล่องไม่ฝืดไอ้จืดเบิ้ลแม่ลูก 
 #EXTVLCOPT:https://media.vdohls.com
@@ -130,6 +133,8 @@ https://media.vdohls.com/EvKd-CQuj_tAi/video.m3u8
 #EXTINF:-1 tvg-chno="30" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2023/11/1stars895pl-1-400x268.jpg",🟣 STARS-895 ผัวไม่เย็ดเลยเสร็จพนักงานส่งของ 
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/Sa_gggN0-reda/video.m3u8
+
+#EXTM3U
 
 #EXTINF:-1 tvg-chno="31" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2023/08/atid00384pl-400x269.jpg",🟣 ATID-384 เพื่อนคิดว่าเป็นผู้ชายแท้มานาน10ปี  
 #EXTVLCOPT:https://media.vdohls.com
@@ -172,6 +177,8 @@ https://media.vdohls.com/KSuhq-D_NkdiF/video.m3u8
 #EXTINF:-1 tvg-chno="40" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2023/04/1stars772pl-400x268.jpg",🟣 STARS-772 พี่สะใภ้จอมร่านแอบเย็ดสะท้านกับน้องผัว 
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/oRnZMD_l-nhEh/video.m3u8
+
+#EXTM3U
 
 #EXTINF:-1 tvg-chno="41" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2023/04/1fsdss00365pl-400x268.jpg",🟣 FSDSS-365 หลอกเพื่อนมาวางยาปลุกเซ็กส์เย็ดก่อนแต่งงาน
 #EXTVLCOPT:https://media.vdohls.com
