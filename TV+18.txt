@@ -3,12 +3,12 @@
 # =============================================
 # 🎬 หมวดหมู่: av subthai 🇹🇭
 # =============================================
-#EXTINF:-1 tvg-chno="01" group-title="Av Subthai 🇹🇭" tvg-logo,"https://avminox.com/wp-content/uploads/2026/03/54896.png",🟣 JUR-615 เก็บกดอยากเลียแม่เมียช่วยบรรเทา
+#EXTINF:-1 tvg-chno="01" group-title="Av Subthai 🇹🇭" tvg-logo,="https://avminox.com/wp-content/uploads/2026/03/54896.png",🟣 JUR-615 เก็บกดอยากเลียแม่เมียช่วยบรรเทา
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/6wK_0Udkr-2e9/video.m3u8
 
 
-#EXTINF:-1 tvg-chno="02" group-title="Av Subthai 🇹🇭" tvg-logo,"https://avminox.com/wp-content/uploads/2025/01/1-1-400x269.webp",🟣 PRED-722 สาวถูกสามีพามาเยี่ยมพ่อตาแต่ในสายตาของพ่อตากลับมองเธอด้วยความ
+#EXTINF:-1 tvg-chno="02" group-title="Av Subthai 🇹🇭" tvg-logo,="https://avminox.com/wp-content/uploads/2025/01/1-1-400x269.webp",🟣 PRED-722 สาวถูกสามีพามาเยี่ยมพ่อตาแต่ในสายตาของพ่อตากลับมองเธอด้วยความ
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/6wK_0Udkr-2e9/video.m3u8
 
