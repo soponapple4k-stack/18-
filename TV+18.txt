@@ -1,25 +1,25 @@
 #EXTM3U
 # =============================================
-# 🎬 หมวดหมู่: ไทย (18+)
+# 🎬 หมวดหมู่: av subthai 🇹🇭
 # =============================================
 
 
-#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 ไทย"https://img1.pic.in.th/images/ChatGPT-Image-20-..-2569-09_40_13.png",🟣 ชุดเนตรนารีไทย 
-#EXTVLCOPT:https://hls-gcore.xvideos-cdn.com
-https://hls-gcore.xvideos-cdn.com/FxPdxa-rv0FUuKSCiXf1Gg==,1784526275/95b65e9a-022b-4ee7-a2ac-be8d48269126/3/hls-1080p-8bd34.m3u8
+#EXTINF:-1 tvg-chno="1" group-title="Av Subthai 🇹🇭"https://img1.pic.in.th/images/1000059649.png",🟣 JUR-615 เก็บกดอยากเลียแม่เมียช่วยบรรเทา
+#EXTVLCOPT:https://media.vdohls.com
+https://media.vdohls.com/6wK_0Udkr-2e9/video.m3u8
 
-##EXTINF:-1 tvg-chno="1" group-title="🇹🇭 ไทย"https://img2.pic.in.th/1000059647.jpg",🟣 ไม่ตั้งใจเรียน
-#EXTVLCOPT:https://hls-gcore.xvideos-cdn.com
-https://hls-cdn77.xvideos-cdn.com/bgg2M61L8DBDmZlhUVuUmg==,1784527097/dc5fcfdb-7f22-4e61-a36e-2ad6a4e78ffc/0/hls-1080p-abc4b.m3u8
+#EXTINF:-1 tvg-chno="1" group-title="Av Subthai 🇹🇭"https://img2.pic.in.th/1000059650.webp",🟣 PRED-722 สาวถูกสามีพามาเยี่ยมพ่อตาแต่ในสายตาของพ่อตากลับมองเธอด้วยความ
+#EXTVLCOPT:https://media.vdohls.com
+https://media.vdohls.com/6wK_0Udkr-2e9/video.m3u8
 
-#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 ไทย" https://img1.pic.in.th/images/ChatGPT-Image-20-..-2569-09_40_13.png",🟣 ชุดเนตรนารีไทย 
-#EXTVLCOPT:https://hls-gcore.xvideos-cdn.com
-https://hls-gcore.xvideos-cdn.com/FxPdxa-rv0FUuKSCiXf1Gg==,1784526275/95b65e9a-022b-4ee7-a2ac-be8d48269126/3/hls-1080p-8bd34.m3u8
+#EXTINF:-1 tvg-chno="1" group-title="Av Subthai 🇹🇭"https://img1.pic.in.th/images/1000059649.png",🟣 JUR-615 เก็บกดอยากเลียแม่เมียช่วยบรรเทา
+#EXTVLCOPT:https://media.vdohls.com
+https://media.vdohls.com/6wK_0Udkr-2e9/video.m3u8
 
 
-#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 ไทย" https://img1.pic.in.th/images/ChatGPT-Image-20-..-2569-09_40_13.png",🟣 ชุดเนตรนารีไทย 
-#EXTVLCOPT:https://hls-gcore.xvideos-cdn.com
-https://hls-gcore.xvideos-cdn.com/FxPdxa-rv0FUuKSCiXf1Gg==,1784526275/95b65e9a-022b-4ee7-a2ac-be8d48269126/3/hls-1080p-8bd34.m3u8
+#EXTINF:-1 tvg-chno="1" group-title="Av Subthai 🇹🇭"https://img1.pic.in.th/images/1000059649.png",🟣 JUR-615 เก็บกดอยากเลียแม่เมียช่วยบรรเทา
+#EXTVLCOPT:https://media.vdohls.com
+https://media.vdohls.com/6wK_0Udkr-2e9/video.m3u8
 
 
 #EXTINF:-1 group-title="🇹🇭 ไทย",[ช่องหลอกสำหรับปิดท้าย]
