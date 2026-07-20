@@ -156,5 +156,9 @@ https://media.vdohls.com/Xsm-HmI_a8z6K/video.m3u8
 # 🎬 หมวดหมู่: X ฝรั่ง 🇬🇧
 # =============================================
 
-#EXTINF:-1 tvg-chno="01" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-04-21-173232-400x222.png",🟣 gattouz0 x bigcatmia (Darkstarmia) 
+#EXTINF:-1 tvg-chno="01" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-04-21-173232-400x222.png",🟣 Gattouz0 x Bigcatmia (Darkstarmia)  
 https://media.vdohls.com/GQfDq_8YaB-0C/video.m3u8
+
+#EXTINF:-1 tvg-chno="02" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/T244-800x450-1-400x225.png",🟣 Gattouz0 x Lunalovekiss
+https://media.vdohls.com/7-l46Rvp1_Y9u/video.m3u8
+
