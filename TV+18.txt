@@ -250,3 +250,5 @@ https://media.vdohls.com/IFy-0a8J_16mh/video.m3u8
 https://media.vdohls.com/HjBt_6-UmYAnv/video.m3u8
 
 
+#EXTINF:-1 tvg-chno="12" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2025/05/snapedit_1747963339846-400x220.png",🔴 รักร้อนรุ่มอมดุ้นในร้านกาแฟ Li Rongron
+https://media.vdohls.com/Y0w-LsFD02_wM/video.m3u8
