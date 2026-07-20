@@ -233,5 +233,10 @@ https://media.vdohls.com/eVVUcq-PE_xY8/video.m3u8
 https://media.vdohls.com/qAAcX-d_rV2W6/video.m3u8
 
 
-#EXTINF:-1 tvg-chno="07" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2025/06/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2025-06-11-210446-400x256.png",🔴 MD-0349 หมอนวดสาวชวนลูกค้าเสียว MD-
+#EXTINF:-1 tvg-chno="07" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2025/06/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2025-06-11-210446-400x256.png",🔴 MD-0349 หมอนวดสาวชวนลูกค้าเสียว
 https://media.vdohls.com/o-fWOy376_MEU/video.m3u8
+
+#EXTINF:-1 tvg-chno="08" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2025/06/snapedit_1749041794367-400x224.png",🔴 MDCM-0012 ดาราสุดเอ็กซ์จัดปาร์ตี้เซ็กส์หมู่ 
+https://media.vdohls.com/RHiWfHZ_Ml-rD/video.m3u8
+
+
