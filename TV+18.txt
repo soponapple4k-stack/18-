@@ -85,22 +85,22 @@ https://media.vdohls.com/Bq-vXl_ItuYz3/video.m3u8
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/om8-uEgOy_Bgl/video.m3u8
 
-#EXTINF:-1 tvg-chno="20" group-title="Av Subthai 🇹🇭" tvg-logo=https://avminox.com/wp-content/uploads/2024/04/mimk00136pl-400x269.png",🟣 MIMK-136 ชวนเพื่อนสนิทเปิดประสบการณ์เซ็ก 
+#EXTINF:-1 tvg-chno="20" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2024/04/mimk00136pl-400x269.png",🟣 MIMK-136 ชวนเพื่อนสนิทเปิดประสบการณ์เซ็ก 
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/Lr-B7_pedgd1W/video.m3u8
 
-#EXTINF:-1 tvg-chno="21" group-title="Av Subthai 🇹🇭" tvg-logo=https://avminox.com/wp-content/uploads/2024/03/adn00426pl-400x269.png",🟣 ADN-426 ซดคล่องไม่ฝืดไอ้จืดเบิ้ลแม่ลูก 
+#EXTINF:-1 tvg-chno="21" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2024/03/adn00426pl-400x269.png",🟣 ADN-426 ซดคล่องไม่ฝืดไอ้จืดเบิ้ลแม่ลูก 
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/Ph-h_fvRvTNMF/video.m3u8
 
-#EXTINF:-1 tvg-chno="22" group-title="Av Subthai 🇹🇭" tvg-logo=https://avminox.com/wp-content/uploads/2024/03/pb_e_abf-087-400x270.png",🟣 ABF-087 เพตสาวเสน่หาธรรมดาไม่เร้าใจ 
+#EXTINF:-1 tvg-chno="22" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2024/03/pb_e_abf-087-400x270.png",🟣 ABF-087 เพตสาวเสน่หาธรรมดาไม่เร้าใจ 
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/48qD_hI-EpfbW/video.m3u8
 
-#EXTINF:-1 tvg-chno="23" group-title="Av Subthai 🇹🇭" tvg-logo=https://avminox.com/wp-content/uploads/2024/03/adn00426pl-400x269.png",🟣 ADN-426 ซดคล่องไม่ฝืดไอ้จืดเบิ้ลแม่ลูก 
+#EXTINF:-1 tvg-chno="23" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2024/03/adn00426pl-400x269.png",🟣 ADN-426 ซดคล่องไม่ฝืดไอ้จืดเบิ้ลแม่ลูก 
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/Ph-h_fvRvTNMF/video.m3u8
 
-#EXTINF:-1 tvg-chno="24" group-title="Av Subthai 🇹🇭" tvg-logo=https://avminox.com/wp-content/uploads/2024/02/ssis00472pl-400x269.png",🟣 SSIS-472 เย็ดสาวสวยหุ่นเด็ด 10 ฉากแบบเต็มอิ่ม
+#EXTINF:-1 tvg-chno="24" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2024/02/ssis00472pl-400x269.png",🟣 SSIS-472 เย็ดสาวสวยหุ่นเด็ด 10 ฉากแบบเต็มอิ่ม
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/G-4OeDmOx_iAx/video.m3u8
