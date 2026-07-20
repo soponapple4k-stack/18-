@@ -13,5 +13,5 @@ https://media.vdohls.com/6wK_0Udkr-2e9/video.m3u8
 
 
 
-#EXTINF:-1 group-title="🇹🇭 ไทย",[ช่องหลอกสำหรับปิดท้าย]
+#EXTINF:-1 group-title=Av Subthai 🇹🇭",[ช่องหลอกสำหรับปิดท้าย]
 http://localhost/dummy.mp4
