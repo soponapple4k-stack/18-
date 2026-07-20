@@ -197,5 +197,4 @@ https://media.vdohls.com/5m3_8Evj-TjZV/video.m3u8
 https://media.vdohls.com/50s14_W-n106O/video.m3u8
 
 #EXTINF:-1 tvg-chno="49" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2023/03/midv00023pl-400x269.jpg",🟣 MIDV-023 เย็ดใช้หนี้แทนน้องถึงกับต้องร้องขอชีวิต 
-#EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/Xsm-HmI_a8z6K/video.m3u8
