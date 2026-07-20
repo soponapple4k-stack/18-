@@ -4,11 +4,11 @@
 # =============================================
 
 
-#EXTINF:-1 tvg-chno="1" group-title="Av Subthai 🇹🇭 tvg-logo="https://ibb.co/Lb7S9yp",🟣 JUR-615 เก็บกดอยากเลียแม่เมียช่วยบรรเทา
+#EXTINF:-1 tvg-chno="1" group-title="Av Subthai 🇹🇭" tvg-logo="https://ibb.co/Lb7S9yp",🟣 JUR-615 เก็บกดอยากเลียแม่เมียช่วยบรรเทา
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/6wK_0Udkr-2e9/video.m3u8
 
-#EXTINF:-1 tvg-chno="1" group-title="Av Subthai 🇹🇭 tvg-logo="https://img2.pic.in.th/1000059650.webp",🟣 PRED-722 สาวถูกสามีพามาเยี่ยมพ่อตาแต่ในสายตาของพ่อตากลับมองเธอด้วยความ
+#EXTINF:-1 tvg-chno="1" group-title="Av Subthai 🇹🇭" tvg-logo="https://img2.pic.in.th/1000059650.webp",🟣 PRED-722 สาวถูกสามีพามาเยี่ยมพ่อตาแต่ในสายตาของพ่อตากลับมองเธอด้วยความ
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/6wK_0Udkr-2e9/video.m3u8
 
