@@ -22,10 +22,19 @@ https://media.vdohls.com/I_J0PI8Y8-TAq/video.m3u8
 https://media.vdohls.com/uF1ftf-VUT_eH/video.m3u8
 
 
-#EXTINF:-1 tvg-chno="04" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2025/01/sone00483pl-400x269.webp",🟣 SONE-483 ฤทธิ์ยาหลอน ครูฝึกสอนเสียวจนลืมโลก 
+#EXTINF:-1 tvg-chno="05" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2025/01/sone00483pl-400x269.webp",🟣 SONE-483 ฤทธิ์ยาหลอน ครูฝึกสอนเสียวจนลืมโลก 
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/Jp-Q_rnR9seFC/video.m3u8
 
-#EXTINF:-1 tvg-chno="04" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2025/01/dass00534pl-400x269.webp",🟣 DASS-534 ทนเสียวได้ ให้ 100 ล้าน 
+#EXTINF:-1 tvg-chno="06" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2025/01/dass00534pl-400x269.webp",🟣 DASS-534 ทนเสียวได้ ให้ 100 ล้าน 
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/BG2_nwqcvn-rr/video.m3u8
+
+
+#EXTINF:-1 tvg-chno="07" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2024/12/midv00791pl-400x269.webp",🟣 MIDV-791 เสน่ห์สาวรุ่นพี่ จับปี้จนร้องเสียงหลง 
+#EXTVLCOPT:https://media.vdohls.com
+https://media.vdohls.com/ASKgT-6mKn_1U/video.m3u8
+
+#EXTINF:-1 tvg-chno="08" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2023/10/FSDSS-672_1200-400x269.jpg",🟣 FSDSS-672 เมียเจ้าของร้านเสียวซ่านถึงใจ 
+#EXTVLCOPT:https://media.vdohls.com
+https://media.vdohls.com/P42_BnfLGn-L7/video.m3u8
