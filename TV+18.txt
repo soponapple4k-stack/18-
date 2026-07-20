@@ -20,3 +20,12 @@ https://media.vdohls.com/I_J0PI8Y8-TAq/video.m3u8
 #EXTINF:-1 tvg-chno="04" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/ouoip.png",🟣 START-434 พลังหยุดโลกโยกหนุ่มจนสมองพัง
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/uF1ftf-VUT_eH/video.m3u8
+
+
+#EXTINF:-1 tvg-chno="04" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2025/01/sone00483pl-400x269.webp",🟣 SONE-483 ฤทธิ์ยาหลอน ครูฝึกสอนเสียวจนลืมโลก 
+#EXTVLCOPT:https://media.vdohls.com
+https://media.vdohls.com/Jp-Q_rnR9seFC/video.m3u8
+
+#EXTINF:-1 tvg-chno="04" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2025/01/dass00534pl-400x269.webp",🟣 DASS-534 ทนเสียวได้ ให้ 100 ล้าน 
+#EXTVLCOPT:https://media.vdohls.com
+https://media.vdohls.com/BG2_nwqcvn-rr/video.m3u8
