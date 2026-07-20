@@ -3,7 +3,7 @@
 # =============================================
 # 🎬 หมวดหมู่: av subthai 🇹🇭
 # =============================================
-#EXTINF:-1 tvg-chno="01" group-title="Av Subthai 🇹🇭" tvg-logo,"https://ibb.co/Lb7S9yp",🟣 JUR-615 เก็บกดอยากเลียแม่เมียช่วยบรรเทา
+#EXTINF:-1 tvg-chno="01" group-title="Av Subthai 🇹🇭" tvg-logo,"https://avminox.com/wp-content/uploads/2026/03/54896.png",🟣 JUR-615 เก็บกดอยากเลียแม่เมียช่วยบรรเทา
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/6wK_0Udkr-2e9/video.m3u8
 
