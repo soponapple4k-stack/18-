@@ -85,6 +85,8 @@ https://media.vdohls.com/Bq-vXl_ItuYz3/video.m3u8
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/om8-uEgOy_Bgl/video.m3u8
 
+#EXTM3U
+
 #EXTINF:-1 tvg-chno="20" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2024/04/mimk00136pl-400x269.png",🟣 MIMK-136 ชวนเพื่อนสนิทเปิดประสบการณ์เซ็ก 
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/Lr-B7_pedgd1W/video.m3u8
