@@ -271,3 +271,9 @@ https://media.vdohls.com/AZPKu_Ef-wsZQ/video.m3u8
 #EXTINF:-1 tvg-chno="17" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2024/12/3.png",🔴 CUS-1993 ชวนเพื่อนมาเดท 1 วัน 
 https://media.vdohls.com/skuHPd-cm6_sH/video.m3u8
 
+
+
+#EXTINF:-1 tvg-chno="18" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2024/11/58_result-400x269.webp",🔴 RAS-0259 เอาชีวิตรอดจากชนเผ่าเย็ด
+https://media.vdohls.com/xsN7OT_d-a68X/video.m3u8
+
+
