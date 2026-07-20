@@ -149,3 +149,12 @@ https://media.vdohls.com/50s14_W-n106O/video.m3u8
 
 #EXTINF:-1 tvg-chno="48" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2023/03/midv00023pl-400x269.jpg",🟣 MIDV-023 เย็ดใช้หนี้แทนน้องถึงกับต้องร้องขอชีวิต 
 https://media.vdohls.com/Xsm-HmI_a8z6K/video.m3u8
+
+
+
+# =============================================
+# 🎬 หมวดหมู่: Xฝรั่ง 🇬🇧
+# =============================================
+
+#EXTINF:-1 tvg-chno="01" group-title="Xฝรั่ง 🇬🇧" tvg-logo="https://sl1nk.com/s05l3ja",🟣 gattouz0 x bigcatmia (Darkstarmia) 
+https://media.vdohls.com/GQfDq_8YaB-0C/video.m3u8
