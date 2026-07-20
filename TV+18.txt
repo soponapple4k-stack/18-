@@ -240,3 +240,13 @@ https://media.vdohls.com/o-fWOy376_MEU/video.m3u8
 https://media.vdohls.com/RHiWfHZ_Ml-rD/video.m3u8
 
 
+#EXTINF:-1 tvg-chno="09" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2025/05/55887.png",🔴 MDL-0010-3 Squid Game เผชิญหน้าครั้งสุดท้าย
+https://media.vdohls.com/Z4ZQ1-IP_A8rg/video.m3u8
+
+#EXTINF:-1 tvg-chno="10" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2025/05/14789.png",🔴 MD-0358  สองสาวส่งของลองเย็ดกับ CEO หนุ่ม 
+https://media.vdohls.com/IFy-0a8J_16mh/video.m3u8
+
+#EXTINF:-1 tvg-chno="11" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2025/05/47854.png",🔴 MDWP-0034 เย็ดพนักงานสาวในร้านสะดวกซื้อ 
+https://media.vdohls.com/HjBt_6-UmYAnv/video.m3u8
+
+
