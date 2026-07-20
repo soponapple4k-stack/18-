@@ -12,5 +12,11 @@ https://media.vdohls.com/6wK_0Udkr-2e9/video.m3u8
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/6wK_0Udkr-2e9/video.m3u8
 
+#EXTINF:-1 tvg-chno="03" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/vcvcxxc.png",🟣 FSDSS-856 จากที่เป็น introvert
+#EXTVLCOPT:https://media.vdohls.com
+https://media.vdohls.com/I_J0PI8Y8-TAq/video.m3u8
 
 
+#EXTINF:-1 tvg-chno="04" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/ouoip.png",🟣 START-434 พลังหยุดโลกโยกหนุ่มจนสมองพัง
+#EXTVLCOPT:https://media.vdohls.com
+https://media.vdohls.com/uF1ftf-VUT_eH/video.m3u8
