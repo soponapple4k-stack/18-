@@ -3,10 +3,11 @@
 # =============================================
 # 🎬 หมวดหมู่: av subthai 🇹🇭
 # =============================================
+
+#EXTM3U
 #EXTINF:-1 tvg-chno="01" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/54896.png",🟣 JUR-615 เก็บกดอยากเลียแม่เมียช่วยบรรเทา
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/6wK_0Udkr-2e9/video.m3u8
-
 
 #EXTINF:-1 tvg-chno="02" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2025/01/1-1-400x269.webp",🟣 PRED-722 สาวถูกสามีพามาเยี่ยมพ่อตาแต่ในสายตาของพ่อตากลับมองเธอด้วยความ
 #EXTVLCOPT:https://media.vdohls.com
@@ -16,11 +17,9 @@ https://media.vdohls.com/6wK_0Udkr-2e9/video.m3u8
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/I_J0PI8Y8-TAq/video.m3u8
 
-
 #EXTINF:-1 tvg-chno="04" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/ouoip.png",🟣 START-434 พลังหยุดโลกโยกหนุ่มจนสมองพัง
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/uF1ftf-VUT_eH/video.m3u8
-
 
 #EXTINF:-1 tvg-chno="05" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2025/01/sone00483pl-400x269.webp",🟣 SONE-483 ฤทธิ์ยาหลอน ครูฝึกสอนเสียวจนลืมโลก 
 #EXTVLCOPT:https://media.vdohls.com
@@ -29,7 +28,6 @@ https://media.vdohls.com/Jp-Q_rnR9seFC/video.m3u8
 #EXTINF:-1 tvg-chno="06" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2025/01/dass00534pl-400x269.webp",🟣 DASS-534 ทนเสียวได้ ให้ 100 ล้าน 
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/BG2_nwqcvn-rr/video.m3u8
-
 
 #EXTINF:-1 tvg-chno="07" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2024/12/midv00791pl-400x269.webp",🟣 MIDV-791 เสน่ห์สาวรุ่นพี่ จับปี้จนร้องเสียงหลง 
 #EXTVLCOPT:https://media.vdohls.com
@@ -47,8 +45,6 @@ https://media.vdohls.com/YPX-46X_iiN0K/video.m3u8
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/I_XF-b2o4iBgE/video.m3u8
 
-#EXTM3U
-
 #EXTINF:-1 tvg-chno="11" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2024/08/1fsdss00861pl-400x268.png",🟣 FSDSS-861 นักข่าวกลีบอูม ล่าแต้มจนกีฟูมน้ำเยิ้ม
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/TuZ-AaexsK_JM/video.m3u8
@@ -56,7 +52,6 @@ https://media.vdohls.com/TuZ-AaexsK_JM/video.m3u8
 #EXTINF:-1 tvg-chno="12" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2024/07/dvaj00633pl-400x269.png",🟣 DVAJ-633 น้ำนองถนนคืนติดฝนกับนายหญิง 
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/8-QY_8U5zl0xQ/video.m3u8
-
 
 #EXTINF:-1 tvg-chno="13" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2024/07/midv00433pl-400x269.png",🟣 MIDV-433 ลูกเมียไม่อยู่ แอบมาจุกกรู๊แม่บ้าน
 #EXTVLCOPT:https://media.vdohls.com
@@ -78,7 +73,6 @@ https://media.vdohls.com/Zxj4-dMqh_mua/video.m3u8
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/fm-7_fmXYHM7F/video.m3u8
 
-
 #EXTINF:-1 tvg-chno="18" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2024/04/midv00671pl-1-400x269.png",🟣 MIDV-671 พ่อใจทรามจับลูกเลี้ยงเย็ดทำเมีย 
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/Bq-vXl_ItuYz3/video.m3u8
@@ -87,12 +81,9 @@ https://media.vdohls.com/Bq-vXl_ItuYz3/video.m3u8
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/om8-uEgOy_Bgl/video.m3u8
 
-
 #EXTINF:-1 tvg-chno="20" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2024/04/mimk00136pl-400x269.png",🟣 MIMK-136 ชวนเพื่อนสนิทเปิดประสบการณ์เซ็ก 
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/Lr-B7_pedgd1W/video.m3u8
-
-#EXTM3U
 
 #EXTINF:-1 tvg-chno="21" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2024/03/adn00426pl-400x269.png",🟣 ADN-426 ซดคล่องไม่ฝืดไอ้จืดเบิ้ลแม่ลูก 
 #EXTVLCOPT:https://media.vdohls.com
@@ -134,12 +125,9 @@ https://media.vdohls.com/EvKd-CQuj_tAi/video.m3u8
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/Sa_gggN0-reda/video.m3u8
 
-#EXTM3U
-
 #EXTINF:-1 tvg-chno="31" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2023/08/atid00384pl-400x269.jpg",🟣 ATID-384 เพื่อนคิดว่าเป็นผู้ชายแท้มานาน10ปี  
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/VX-7Tp_Lo8E9D/video.m3u8
-
 
 #EXTINF:-1 tvg-chno="32" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2023/07/adn00479pl-400x269.jpg",🟣 ADN-479 ชะตากีขาดโดนโจรแหกคุกเข้าบ้านจับข่มขืน
 #EXTVLCOPT:https://media.vdohls.com
@@ -173,12 +161,9 @@ https://media.vdohls.com/7ThTh2-JDF_v9/video.m3u8
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/KSuhq-D_NkdiF/video.m3u8
 
-
 #EXTINF:-1 tvg-chno="40" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2023/04/1stars772pl-400x268.jpg",🟣 STARS-772 พี่สะใภ้จอมร่านแอบเย็ดสะท้านกับน้องผัว 
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/oRnZMD_l-nhEh/video.m3u8
-
-#EXTM3U
 
 #EXTINF:-1 tvg-chno="41" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2023/04/1fsdss00365pl-400x268.jpg",🟣 FSDSS-365 หลอกเพื่อนมาวางยาปลุกเซ็กส์เย็ดก่อนแต่งงาน
 #EXTVLCOPT:https://media.vdohls.com
@@ -195,7 +180,6 @@ https://media.vdohls.com/GaU_Cz3V-DfQ3/video.m3u8
 #EXTINF:-1 tvg-chno="44" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2023/03/STARS-468-400x268.jpg",🟣 STARS-468 แฟนเก่าวางยาปลุกเซ็กส์จับข่มขืนก่อนแต่งงาน 
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/jrO_lhi-uI6wt/video.m3u8
-
 
 #EXTINF:-1 tvg-chno="45" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2023/03/ssis00424pl-400x269.jpg",🟣 SSIS-424 เย็ดสดแตกในรุ่นน้องวัยใสในออฟฟิศ 
 #EXTVLCOPT:https://media.vdohls.com
@@ -216,7 +200,3 @@ https://media.vdohls.com/50s14_W-n106O/video.m3u8
 #EXTINF:-1 tvg-chno="49" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2023/03/midv00023pl-400x269.jpg",🟣 MIDV-023 เย็ดใช้หนี้แทนน้องถึงกับต้องร้องขอชีวิต 
 #EXTVLCOPT:https://media.vdohls.com
 https://media.vdohls.com/Xsm-HmI_a8z6K/video.m3u8
-
-#EXTINF:-1 tvg-chno="50" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2024/04/juq00540pl-400x269.png",🟣 JUQ-540 เสียท่ารุ่นน้องลองใจภรรยา 
-#EXTVLCOPT:https://media.vdohls.com
-https://media.vdohls.com/om8-uEgOy_Bgl/video.m3u8
