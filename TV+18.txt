@@ -193,3 +193,18 @@ https://media.vdohls.com/d5O-wcg_0yYPV/video.m3u8
 #EXTINF:-1 tvg-chno="12" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-01-29-191929-400x224-1-400x224.jpg",🟣 Gattouz0 x Hunnybunny
 https://media.vdohls.com/Zzp_GJ-vsTgKs/video.m3u8
 
+
+#EXTINF:-1 tvg-chno="13" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-02-24-211343-400x224.png",🟣 Gattouz0 x Emiri Momota
+https://media.vdohls.com/1fTin_I-A1ION/video.m3u8
+
+#EXTINF:-1 tvg-chno="14" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-03-02-223507-400x239.png",🟣 Gattouz0 x Rikakodesu 
+https://media.vdohls.com/r-Bw2KMvos_lO/video.m3u8
+
+#EXTINF:-1 tvg-chno="15" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-02-22-202855-400x215.png",🟣 Gattouz0 x Samibaby
+https://media.vdohls.com/Lg-zOD5_Y8dIT/video.m3u8
+
+#EXTINF:-1 tvg-chno="16" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-02-11-210617-400x198.png",🟣 Gattouz0 x Hope Heaven
+https://media.vdohls.com/yDe-Tsa9L_M0q/video.m3u8
+
+INF:-1 tvg-chno="17" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2025/12/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2025-12-29-200255-400x222.png",🟣 Gattouz0 x Jethedeath
+https://media.vdohls.com/LJ_E0pO-lKVUu/video.m3u8
