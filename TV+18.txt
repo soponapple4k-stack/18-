@@ -168,3 +168,9 @@ https://media.vdohls.com/9-5TDxESt_iix/video.m3u8
 
 #EXTINF:-1 tvg-chno="04" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-04-10-150843-400x223.png",🟣 Gattouz0 x Onlyping x Djsakura
 https://media.vdohls.com/yFXe-0u_58F7G/video.m3u8
+
+#EXTINF:-1 tvg-chno="05" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/hJNaNxlUqlzQk11T-1-400x225.jpg",🟣 Gattouz0 x Lilmilk_69
+https://media.vdohls.com/ATzMzR_Y-sNun/video.m3u8
+
+#EXTINF:-1 tvg-chno="06" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-03-25-213835-400x260.png",🟣 Gattouz0 x Audrayandsandie
+https://media.vdohls.com/k-KNH_iBPpYq5/video.m3u8
