@@ -174,3 +174,22 @@ https://media.vdohls.com/ATzMzR_Y-sNun/video.m3u8
 
 #EXTINF:-1 tvg-chno="06" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-03-25-213835-400x260.png",🟣 Gattouz0 x Audrayandsandie
 https://media.vdohls.com/k-KNH_iBPpYq5/video.m3u8
+
+#EXTINF:-1 tvg-chno="07" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-03-23-224408-400x219.png",🟣 Gattouz0 x Bella Blu
+https://media.vdohls.com/1-SCnBsE7_fYy/video.m3u8
+
+#EXTINF:-1 tvg-chno="08" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/a7ee37399c6ebc90a3591014c93a82103.mp4-full-1-400x225.jpg",🟣 Gattouz0 x Lesbians 1 Arab
+https://media.vdohls.com/lg_SWiI-h8GHr/video.m3u8
+
+#EXTINF:-1 tvg-chno="09" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%8B%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD-400x209-1-400x209.png",🟣 Gattouz0 x Jethedeath
+https://media.vdohls.com/lUFDQe3U-j_J5/video.m3u8
+
+#EXTINF:-1 tvg-chno="10" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2026/01/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-01-27-182211-400x220.png",🟣 Gattouz0 x Rikakodesu Gets
+https://media.vdohls.com/SFfu4ce-L_cWc/video.m3u8
+
+#EXTINF:-1 tvg-chno="11" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-02-12-183913-400x234.png",🟣 Gattouz0 x Lucy Mochi 
+https://media.vdohls.com/d5O-wcg_0yYPV/video.m3u8
+
+#EXTINF:-1 tvg-chno="12" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2026-01-29-191929-400x224-1-400x224.jpg",🟣 Gattouz0 x Hunnybunny
+https://media.vdohls.com/Zzp_GJ-vsTgKs/video.m3u8
+
