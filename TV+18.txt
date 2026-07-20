@@ -252,3 +252,9 @@ https://media.vdohls.com/HjBt_6-UmYAnv/video.m3u8
 
 #EXTINF:-1 tvg-chno="12" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2025/05/snapedit_1747963339846-400x220.png",🔴 รักร้อนรุ่มอมดุ้นในร้านกาแฟ Li Rongron
 https://media.vdohls.com/Y0w-LsFD02_wM/video.m3u8
+
+#EXTINF:-1 tvg-chno="13" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2025/05/snapedit_1747153012056-400x224.png",🔴 MDSR-0008-2 เย็ดพนักงานสาวบนเครื่องบิน ep.2 
+https://media.vdohls.com/P_x10Huubj-H5/video.m3u8
+
+#EXTINF:-1 tvg-chno="14" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2025/05/47896.png",🔴 MDSR-0008-1 เย็ดพนักงานต้อนรับบนเครื่องบิน 
+https://media.vdohls.com/i3xV9a_u-pck6/video.m3u8
