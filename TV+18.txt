@@ -4,50 +4,50 @@
 # =============================================
 
 #EXTM3U
-#EXTINF:-1 tvg-chno="01" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="01" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/07/FNS-227-550x374-1-400x272.jpg",🔵 FNS-227 สาวพาร์ทไทม์รับงานเสิร์ฟสุดเสียว
+https://media.vdohls.com/2q67I3k_a-Y20/video.m3u8
 
-#EXTINF:-1 tvg-chno="02" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="02" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/07/mfyd00160pl.w800-400x269.webp",🔵 MFYD-160 อกหักช้ำรักพักใจกับบอส 
+https://media.vdohls.com/TSN-1KAa_Ma4w/video.m3u8
 
-#EXTINF:-1 tvg-chno="03" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="03" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/07/mida00717pl.w800-400x269.webp",🔵 MIDA-717 เจ้าของร้านกาแฟผัวไม่ดูแลโดนเย็ด
+https://media.vdohls.com/k8Dspn_O-7XsE/video.m3u8
 
-#EXTINF:-1 tvg-chno="04" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="04" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/07/hmn00880pl.w800-400x269.webp",🔵 HMN-880 แฟนพี่ตัวร้ายจับส่ายท่อนเอ็น 
+https://media.vdohls.com/N_s-WwDIczoyA/video.m3u8
 
-#EXTINF:-1 tvg-chno="05" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="05" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/07/ebwh348pl-550x374-1-400x272.jpg",🔵 EBWH-348 เจ้าหน้าที่บุกออฟฟิศจัดความเงี่ยน
+https://media.vdohls.com/KrW_JR-SFG11l/video.m3u8
 
-#EXTINF:-1 tvg-chno="06" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="06" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/07/1start606pl-1-550x374-1-400x272.jpg",🔵 START-606 สาวหรูดูแพงโดนแทงมิดด้าม
+https://media.vdohls.com/Uf-WG3ZVU_YaS/video.m3u8
 
-#EXTINF:-1 tvg-chno="07" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="07" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/07/1start00608pl.w800-400x283.webp",🔵 START-608 พยาบาลชุดขาวช่วยสาวท่อนควยหนุ่มหื่น 
+https://media.vdohls.com/6MgBU-z_S6KgE/video.m3u8
 
-#EXTINF:-1 tvg-chno="08" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="08" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/07/1start567pl-550x374-1-400x272.jpg",🔵 START-567 จับเย็ดน้องสาวเพื่อนสนิทโนบรา
+https://media.vdohls.com/DJ-QGGicw_WTY/video.m3u8
 
-#EXTINF:-1 tvg-chno="09" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="09" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/07/ipzz00898pl.w800-400x269.webp",🔵 IPZZ-898 ซีอีโอโรคจิตเย็ดเลขาสาวคาชุดถุงน่อง
+https://media.vdohls.com/Jz-RxMxT3T_ob/video.m3u8
 
-#EXTINF:-1 tvg-chno="10" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="10" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/07/ipzz00886pl.w800-400x269.webp",🔵  IPZZ-886 แฟนใหม่ไม่เด็ดกลับไปเย็ดกับแฟนเก่า 
+https://media.vdohls.com/RM8Q_o-rnn8Dm/video.m3u8
 
-#EXTINF:-1 tvg-chno="11" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="11" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/07/jur00782pl.w800-400x269.webp",🔵 JUR-782 จับแม่บ้านสาวสวยหุ่นอวบอั๋นเย็ด 
+https://media.vdohls.com/8Z-c_UJFoZdKT/video.m3u8
 
-#EXTINF:-1 tvg-chno="12" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="12" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/07/jur00769pl.w800-400x269.webp",🔵 JUR-769 สาวเลขาโดนอ้าขาเย็ด 
+https://media.vdohls.com/P_1-yWOgxfGzP/video.m3u8
 
-#EXTINF:-1 tvg-chno="13" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="13" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/07/pb_e_abf-367-400x270.jpg",🔵 ABF-367 เย็ดสาวสวยแตกใส่หน้า 
+https://media.vdohls.com/ylUZ_e8hR-DLE/video.m3u8
 
-#EXTINF:-1 tvg-chno="14" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="14" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/07/snos00258pl.w800-400x269.webp",🔵  SNOS-258 อ้าปากรับควยคนสวยโดนเสียว
+https://media.vdohls.com/l-K88_EQ4Qd5N/video.m3u8
 
-#EXTINF:-1 tvg-chno="15" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="15" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/07/pb_e_abf-368-400x270.jpg",🔵 ABF-368 สแน็คบาร์ลับสุดเซ็กซี่ของมาม่าซัง 
+ https://media.vdohls.com/uIb-xePi_3dii/video.m3u8
 
 #EXTINF:-1 tvg-chno="16" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
