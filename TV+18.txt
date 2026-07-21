@@ -1,4 +1,78 @@
+
+# =============================================
+# 🎬 หมวดหมู่: Av Nosub 🇯🇵
+# =============================================
+
 #EXTM3U
+#EXTINF:-1 tvg-chno="01" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="02" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="03" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="04" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="05" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="06" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="07" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="08" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="09" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="10" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="11" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="12" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="13" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="14" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="15" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+
+#EXTINF:-1 tvg-chno="16" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+
+#EXTINF:-1 tvg-chno="17" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+
+#EXTINF:-1 tvg-chno="18" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+
+#EXTINF:-1 tvg-chno="19" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+
+#EXTINF:-1 tvg-chno="20" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+
+#EXTINF:-1 tvg-chno="21" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
 
 # =============================================
 # 🎬 หมวดหมู่: av subthai 🇹🇭
@@ -216,13 +290,6 @@ https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
 #EXTINF:-1 tvg-chno="68" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
-
-#EXTINF:-1 tvg-chno="69" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
-
-#EXTINF:-1 tvg-chno="70" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
-
 
 
 
