@@ -150,6 +150,85 @@ https://media.vdohls.com/50s14_W-n106O/video.m3u8
 #EXTINF:-1 tvg-chno="48" group-title="Av Subthai 🇹🇭" tvg-logo="https://avminox.com/wp-content/uploads/2023/03/midv00023pl-400x269.jpg",🟣 MIDV-023 เย็ดใช้หนี้แทนน้องถึงกับต้องร้องขอชีวิต 
 https://media.vdohls.com/Xsm-HmI_a8z6K/video.m3u8
 
+#EXTINF:-1 tvg-chno="49" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+
+#EXTINF:-1 tvg-chno="50" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+
+#EXTINF:-1 tvg-chno="51" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+
+#EXTINF:-1 tvg-chno="52" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+
+#EXTINF:-1 tvg-chno="53" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+
+#EXTINF:-1 tvg-chno="54" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+
+#EXTINF:-1 tvg-chno="55" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+
+#EXTINF:-1 tvg-chno="55" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="56" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="57" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="58" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="59" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="60" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="61" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="62" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="63" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="64" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="65" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="66" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="67" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="68" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="69" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="70" group-title="Av Subthai 🇹🇭" tvg-logo="รูป",🟣 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+
+
+
 
 
 # =============================================
@@ -209,6 +288,7 @@ https://media.vdohls.com/yDe-Tsa9L_M0q/video.m3u8
 INF:-1 tvg-chno="17" group-title="X ฝรั่ง 🇬🇧" tvg-logo="https://avminox.com/wp-content/uploads/2025/12/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2025-12-29-200255-400x222.png",🟡 Gattouz0 x Jethedeath
 https://media.vdohls.com/LJ_E0pO-lKVUu/video.m3u8
 
+
 # =============================================
 # 🎬 หมวดหมู่: X จีน 🇨🇳 
 # =============================================
@@ -264,14 +344,11 @@ https://media.vdohls.com/i3xV9a_u-pck6/video.m3u8
 #EXTINF:-1 tvg-chno="15" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2025/01/MD-0236-400x224-1.png",🔴 MD-0236 สองพี่น้องสุดแซ่บ แบ่งผัวกันเย็ด 
 https://media.vdohls.com/2c_VxM-z8CAsa/video.m3u8
 
-
 #EXTINF:-1 tvg-chno="16" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2025/01/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94.jpg",🔴 PM-089 เกมรักซ่อนเงื่อน สาวใสในเงามืด 
 https://media.vdohls.com/AZPKu_Ef-wsZQ/video.m3u8
 
 #EXTINF:-1 tvg-chno="17" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2024/12/3.png",🔴 CUS-1993 ชวนเพื่อนมาเดท 1 วัน 
 https://media.vdohls.com/skuHPd-cm6_sH/video.m3u8
-
-
 
 #EXTINF:-1 tvg-chno="18" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2024/11/58_result-400x269.webp",🔴 RAS-0259 เอาชีวิตรอดจากชนเผ่าเย็ด
 https://media.vdohls.com/xsN7OT_d-a68X/video.m3u8
@@ -285,8 +362,32 @@ https://media.vdohls.com/qb2U9yx_8-750/video.m3u8
 #EXTINF:-1 tvg-chno="21" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2024/10/1-400x225.webp",🔴 RAS-0290 เพื่อนแฟนจอมยัวจับรัวมิดด้าม 
 https://media.vdohls.com/u_sy-17CPb6My/video.m3u8
 
-
 #EXTINF:-1 tvg-chno="22" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2024/10/snapedit_1729117654422-400x225.webp",🔴 JDSY-092 จับนางแบบสาวกระแทกเสียว
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="23" group-title="X จีน 🇨🇳" tvg-logo="รูป",🔴 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="24" group-title="X จีน 🇨🇳" tvg-logo="รูป",🔴 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="25" group-title="X จีน 🇨🇳" tvg-logo="รูป",🔴 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="26" group-title="X จีน 🇨🇳" tvg-logo="รูป",🔴 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="27" group-title="X จีน 🇨🇳" tvg-logo="รูป",🔴 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="28" group-title="X จีน 🇨🇳" tvg-logo="รูป",🔴 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="29" group-title="X จีน 🇨🇳" tvg-logo="รูป",🔴 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="30" group-title="X จีน 🇨🇳" tvg-logo="รูป",🔴 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
 
 
