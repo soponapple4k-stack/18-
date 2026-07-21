@@ -156,41 +156,41 @@ https://media.vdohls.com/SMz-PsWTzj_8S/video.m3u8
 #EXTINF:-1 tvg-chno="47" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/06/FNS-216-550x374-1-400x272.jpg",🔵 FNS-216 ร้านสปาหลอกให้มานวดเสียว 
 https://media.vdohls.com/t0o_ISJdn-Ssw/video.m3u8
 
-#EXTINF:-1 tvg-chno="48" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="48" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/06/snos00283pl-400x269.jpg",🔵 SNOS-283 สาวสวยในร้านซักผ้าอ้าขาโดนเย็ด
+https://media.vdohls.com/N-Dxm_BnDr0AY/video.m3u8
 
-#EXTINF:-1 tvg-chno="49" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="49" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/06/snos00209pl-400x269.jpg",🔵 SNOS-209 สาวสายรุกคลุกวงในเกมเซ็กส์เสียว 
+https://media.vdohls.com/Eh_jr99hF-WGI/video.m3u8
 
-#EXTINF:-1 tvg-chno="50" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="50" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/06/1start582pl-550x374-1-400x272.jpg",🔵 START-582 ฝึกงานหมอนวดตรวจเสียว 
+https://media.vdohls.com/Jj_cGr3-ggE5Y/video.m3u8
 
-#EXTINF:-1 tvg-chno="51" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="51" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/06/1start571pl-550x374-1-400x272.jpg",🔵 START-571 วางยานอนหลับจับเย็ดหมอรุ่นน้อง 
+https://media.vdohls.com/w9Ra_aeAqQ-9Y/video.m3u8
 
-#EXTINF:-1 tvg-chno="52" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="52" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/1fns00211pl-400x268.jpg",🔵 FNS-211 ส้มหล่นทับลูกน้องสองเจ้านายอกโต 
+https://media.vdohls.com/WWI_Y5rU-NG0j/video.m3u8
 
-#EXTINF:-1 tvg-chno="53" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="53" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/1dldss00494pl-400x269.jpg",🔵 DLDSS-494 สาวติดเซ็กส์จัดเย็ดตามใจ
+https://media.vdohls.com/xCnXp-h5gw_Ju/video.m3u8
 
-#EXTINF:-1 tvg-chno="54" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="54" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/mida00614pl-400x269.jpg",🔵 MIDA-614 หนุ่มดวงดีเจอผีสาวนมโต 
+https://media.vdohls.com/nxun-fj_R7U3b/video.m3u8
 
-#EXTINF:-1 tvg-chno="55" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="55" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/mida00655pl-400x269.jpg",🔵 MIDA-655 หน้าจืดโชคดีได้ปี้แฟนเพื่อน
+https://media.vdohls.com/of_D-JuWUDDxP/video.m3u8
 
-#EXTINF:-1 tvg-chno="56" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="56" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/pb_e_abf-355-400x270.jpg",🔵 ABF-355 เซ็กส์ 3 ฉากกับสาวสวยไอริ
+https://media.vdohls.com/T_GgcXnM-ES8O/video.m3u8
 
-#EXTINF:-1 tvg-chno="57" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="57" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/1fns00207pl-400x268.jpg",🔵 FNS-207 งานเลี้ยงรวมรุ่นอมดุ้นแฟนเก่า 
+https://media.vdohls.com/Z-rIvabhAr_cY/video.m3u8
 
-#EXTINF:-1 tvg-chno="58" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="58" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/1start575pl-550x374-1-400x272.jpg",🔵 START-575 แอบสืบรังโจรโดนลากไปเย็ด 
+https://media.vdohls.com/98bj_qz-QlN41/video.m3u8
 
-#EXTINF:-1 tvg-chno="59" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="59" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/pb_e_mfcs-202-1-400x269.jpg",🔵 FC2-PPV-4903350 ของดีแดนปลาดิบ 
+https://media.vdohls.com/Dv_hrEog-RAOX/video.m3u8
 
 #EXTINF:-1 tvg-chno="60" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
