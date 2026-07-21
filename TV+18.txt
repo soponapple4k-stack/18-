@@ -276,4 +276,17 @@ https://media.vdohls.com/skuHPd-cm6_sH/video.m3u8
 #EXTINF:-1 tvg-chno="18" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2024/11/58_result-400x269.webp",🔴 RAS-0259 เอาชีวิตรอดจากชนเผ่าเย็ด
 https://media.vdohls.com/xsN7OT_d-a68X/video.m3u8
 
+#EXTINF:-1 tvg-chno="19" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2024/11/d8136646-e7f0-429b-8954-7a59540a130a-400x225.webp",🔴 MDX-0067 ภารกิจไม่สำเร็จโดนเพื่อนเย็ดสุดเร่าร้อน 
+https://media.vdohls.com/6Tw-YL_soOVgd/video.m3u8
+
+#EXTINF:-1 tvg-chno="20" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2024/10/11-400x319.webp",🔴 MAD-046  แม่ชีดูดพิษงู 
+https://media.vdohls.com/qb2U9yx_8-750/video.m3u8
+
+#EXTINF:-1 tvg-chno="21" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2024/10/1-400x225.webp",🔴 RAS-0290 เพื่อนแฟนจอมยัวจับรัวมิดด้าม 
+https://media.vdohls.com/u_sy-17CPb6My/video.m3u8
+
+
+#EXTINF:-1 tvg-chno="22" group-title="X จีน 🇨🇳" tvg-logo="https://avminox.com/wp-content/uploads/2024/10/snapedit_1729117654422-400x225.webp",🔴 JDSY-092 จับนางแบบสาวกระแทกเสียว
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
 
