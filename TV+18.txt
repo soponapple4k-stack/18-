@@ -192,23 +192,150 @@ https://media.vdohls.com/98bj_qz-QlN41/video.m3u8
 #EXTINF:-1 tvg-chno="59" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/pb_e_mfcs-202-1-400x269.jpg",🔵 FC2-PPV-4903350 ของดีแดนปลาดิบ 
 https://media.vdohls.com/Dv_hrEog-RAOX/video.m3u8
 
-#EXTINF:-1 tvg-chno="60" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+#EXTINF:-1 tvg-chno="60" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/jur00752pl-400x269.jpg",🔵 JUR-752 แอบเล่นชู้กับหนุ่มช่างซ่อม 
+https://media.vdohls.com/M_CKW-dUeHY8L/video.m3u8
+
+#EXTINF:-1 tvg-chno="61" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/1dldss00499pl-400x269.jpg",🔵 DLDSS-499 หลังจากสามีไปทำงานเบิกบานกับพ่อผัว 
+https://media.vdohls.com/ro_SiXK-3li6P/video.m3u8
+
+#EXTINF:-1 tvg-chno="62" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/huntc00574pl-400x269.jpg",🔵 HUNTC-574 ยาวิเศษสะกดจิตเย็ดสาวสวย 
+https://media.vdohls.com/AhU_s-lWCrtGG/video.m3u8
+
+#EXTINF:-1 tvg-chno="63" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/jur00754pl-400x269.jpg",🔵 JUR-754 แอบเล่นชู้เปิดซิงกับพี่สะใภ้ 
+https://media.vdohls.com/os_ZLtqbrq-f9/video.m3u8
+
+#EXTINF:-1 tvg-chno="64" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/1fns00208pl-400x268.jpg",🔵 FNS-208 เดินตรวจเวรดึกเปิดศึกคนไข้ 
+https://media.vdohls.com/htF_yUMxY-ta3/video.m3u8
+
+#EXTINF:-1 tvg-chno="65" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/1fns00192pl-400x268.jpg",🔵  FNS-192 ลาออกจากงานกีบานที่ร้านราเม็ง 
+https://media.vdohls.com/VeG-KYp8F_1Ms/video.m3u8
+
+#EXTINF:-1 tvg-chno="66" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/START-489v-400x269.webp",🔵 START-489 สะกดเย็ดล้างแค้นสาวผมทอง 
+https://media.vdohls.com/106-Vtr_19UfX/video.m3u8
+
+#EXTINF:-1 tvg-chno="67" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/pred00857pl-400x269.jpg",🔵 PRED-857 ชีวิตเฮงซวยโดนควยพ่อผัวเย็ดสมัยเรียน 
+https://media.vdohls.com/RCLcht_9R-GhO/video.m3u8
+
+#EXTINF:-1 tvg-chno="68" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/pred00864pl-400x269.jpg",🔵  PRED-864 หลอกเป็นนกต่อโดนล่อกี 
+https://media.vdohls.com/h64ei_UA6i-5f/video.m3u8
+
+#EXTINF:-1 tvg-chno="69" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/ebwh00319pl-400x269.jpg",🔵 EBWH-319 สาวนักวิจัยเผลอกินยาไปแต่ดันเงี่ยน
+https://media.vdohls.com/eLtO1j9-k_F4C/video.m3u8
+
+#EXTINF:-1 tvg-chno="70" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/1start581pl-550x374-1-400x272.jpg",🔵 START-581 ชีวิตคู่รักฟัดกีเย็ด 
+https://media.vdohls.com/ZY4u-Pd6r_lr5/video.m3u8
+
+#EXTINF:-1 tvg-chno="71" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/ipzz00810pl-400x269.jpg",🔵 IPZZ-810 เมื่อจืดเจอสาวริมทะเล 
+https://media.vdohls.com/h8UU_VO4D-0Yx/video.m3u8
+
+#EXTINF:-1 tvg-chno="72" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/mudr00225pl-400x269.jpg",🔵 MUDR-225 น้องสาวเป็นคนไม่มีเพื่อน 
+https://media.vdohls.com/77k-KSmrWB_At/video.m3u8
+
+#EXTINF:-1 tvg-chno="73" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/pfes00122pl-400x269.jpg",🔵 PFES-122 เพื่อนบ้านเปิดประตูห้องมาดักรอ 
+https://media.vdohls.com/raJq5v-il_G0E/video.m3u8
+
+#EXTINF:-1 tvg-chno="74" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/05/1dldss00492pl-400x269.jpg",🔵 DLDSS-492 วางยาปลุกเซ็กส์เย็ดบอสสาว 
+https://media.vdohls.com/w_rsh7DYTa-Xg/video.m3u8
+
+#EXTINF:-1 tvg-chno="75" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
-#EXTINF:-1 tvg-chno="61" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+#EXTINF:-1 tvg-chno="76" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
-#EXTINF:-1 tvg-chno="62" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+#EXTINF:-1 tvg-chno="77" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
-#EXTINF:-1 tvg-chno="63" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+#EXTINF:-1 tvg-chno="78" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
-#EXTINF:-1 tvg-chno="64" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+#EXTINF:-1 tvg-chno="79" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
-#EXTINF:-1 tvg-chno="65" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+#EXTINF:-1 tvg-chno="80" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="81" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="82" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="83" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="84" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="85" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="86" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="87" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="88" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="89" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="90" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="91" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="92" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="93" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="94" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="95" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="96" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="97" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="98" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="99" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="100" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="101" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="102" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="103" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="104" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="105" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="106" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="107" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
 
 
 
