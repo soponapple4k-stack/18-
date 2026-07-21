@@ -270,20 +270,20 @@ https://media.vdohls.com/W-8ue4Ts_HpDr/video.m3u8
 #EXTINF:-1 tvg-chno="85" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/FNS176-550x374-1-400x272.jpg",🔵 FNS-176 พี่สาวเก็บตัวโดนรัวเสียว
 https://media.vdohls.com/d6HPNy_bk-od9/video.m3u8
 
-#EXTINF:-1 tvg-chno="86" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="86" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/1piyo00233pl-400x268.jpg",🔵 PIYO-233 เมื่อสาวแว่นมาอ่านหนังสือที่ร้าน
+https://media.vdohls.com/vM6di_kV-2rnP/video.m3u8
 
-#EXTINF:-1 tvg-chno="87" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="87" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/mudr00374pl-400x269.jpg",🔵 MUDR-374 ซีรี่ย์รักสดใสของสาวๆวัยมัธยม 
+https://media.vdohls.com/GXX_sivzRv-5F/video.m3u8
 
-#EXTINF:-1 tvg-chno="88" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="88" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/ebwh00285pl-400x269.jpg",🔵 EBWH-285 เมื่อผมพึ่งเคยมีแฟนคนแรก 
+https://media.vdohls.com/DV_W-GLDbhB48/video.m3u8
 
-#EXTINF:-1 tvg-chno="89" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="89" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/mfyd00129pl-400x269.jpg",🔵 MFYD-129 หนุ่มจืดจัดเซ็กส์แม่เลี้ยงเดี่ยว
+https://media.vdohls.com/3tQ_Q7G-yT40T/video.m3u8
 
-#EXTINF:-1 tvg-chno="90" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="90" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/DLDSS491-550x374-1-400x272.jpg",🔵 DLDSS-491 จัดหนักเอาท์ดอร์ล่อสาวมาเสียว
+https://media.vdohls.com/o_d2RC-5xp1Y1/video.m3u8
 
 #EXTINF:-1 tvg-chno="91" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
