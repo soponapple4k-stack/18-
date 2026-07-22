@@ -1225,8 +1225,9 @@ https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 #EXTINF:-1 tvg-chno="29" group-title="X จีน 🇨🇳" tvg-logo="รูป",🔴 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
-#EXTINF:-1 tvg-chno="30" group-title="X จีน 🇨🇳" tvg-logo="รูป",🔴 ชื่อเรื่อง
+#EXTINF:-1 tvg-chno="30" group-title="X จีน 🇨🇳" tvg-logo="รูป",🔴 tvg-logo
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
+#EXTINF:-1 tvg-id="CH3HD" tvg-name="CH3HD" tvg-logo="https://avminox.com/wp-content/uploads/2024/10/snapedit_1729117654422-400x225.webp" grCH3Hhttps จีน 🇨🇳", จับนางแบบสาวกระแทกเสียว://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
 
