@@ -453,7 +453,7 @@ https://media.vdohls.com/KizAI_r11s-R6/video.m3u8
 #EXTINF:-1 tvg-chno="148" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/ouoip.png",🔵 START-434 พลังหยุดโลกโยกหนุ่มจนสมองพัง
 https://media.vdohls.com/uF1ftf-VUT_eH/video.m3u8
 
-#EXTINF:-1 tvg-chno="149" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/1stars751pl-400x2",🔵 STARS-751 ไปตากแอร์ที่ห้องนายได้บ่
+#EXTINF:-1 tvg-chno="149" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/1stars751pl-400x268.jpg",🔵 STARS-751 ไปตากแอร์ที่ห้องนายได้บ่
 https://media.vdohls.com/2cREpukS_u-N6/video.m3u8
 
 #EXTINF:-1 tvg-chno="150" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/huntc00544pl-400x269.jpg",🔵 HUNTC-544 ทัศนศึกษาพาเสียว
