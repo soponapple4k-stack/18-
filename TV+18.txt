@@ -516,7 +516,7 @@ https://media.vdohls.com/OlgDFQ_et6-UD/video.m3u8
 #EXTINF:-1 tvg-chno="169" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/hikr00217pl-400x268.jpg",🔵 HIKR-21 สาวอเมริกันกับเกมรักสไตล์ญี่ปุ่น
 https://media.vdohls.com/5nf_F0zXq9-Fm/video.m3u8
 
-#EXTINF:-1 tvg-chno="170" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/1sdmm00225pl-400x269.jpg7,🔵  SDMM-225 ห้องกระจกที่ข้างนอกมองไม่เห็น
+#EXTINF:-1 tvg-chno="170" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/1sdmm00225pl-400x269.jpg",🔵 SDMM-225 ห้องกระจกที่ข้างนอกมองไม่เห็น
 https://media.vdohls.com/g-TV_RfJQXSiM/video.m3u8
 
 #EXTINF:-1 tvg-chno="171" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/snos00079pl-400x269.jpg",🔵 SNOS-079 ชวนอินฟูมารีวิวที่พัก
