@@ -747,38 +747,38 @@ https://media.vdohls.com/OhzPC_5-nZfKo/video.m3u8
 #EXTINF:-1 tvg-chno="248" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/11/sone00248pl-400x269.jpg",🔵 ทSONE-248 ทำงานใช้หนี้เพราะสามียักยอกเงินบริษัท
 https://media.vdohls.com/l_w-rB00ZLFW9/video.m3u8
 
-#EXTINF:-1 tvg-chno="249" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="249" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/11/pppe00378pl-400x269.jpg",🔵 PPPE-378 หนีออกจากบ้านเบิกบานกัลลุงใจดี 
+https://media.vdohls.com/2A-zg_pHPKEee/video.m3u8
 
-#EXTINF:-1 tvg-chno="250" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="250" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/11/jur00131pl-400x269.jpg",🔵 JUR-131 เมียผู้บริหารถูกหลอกพาเข้าโรงหนัง 
+https://media.vdohls.com/YP_bmwodh-Ue8/video.m3u8
 
-#EXTINF:-1 tvg-chno="251" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="251" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/11/36dhld00007pl-400x269.jpg",🔵 DHLD-007 ปาร์ตี้เพื่อนพี่สาวยกแก๊งจัดเต็ม 
+https://media.vdohls.com/u8nf-2q_1Pps9/video.m3u8
 
-#EXTINF:-1 tvg-chno="252" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="252" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/11/huntc00411pl-400x269.jpg",🔵 HUNTC-411 เมื่อเราชอบหัวหน้าห้องคนเดียวกัน 
+https://media.vdohls.com/16T0DGO_O7-eI/video.m3u8
 
-#EXTINF:-1 tvg-chno="253" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="253" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/11/pred00821pl-400x269.jpg",🔵 PRED-821ตื่นมาเจอเจ้านายสุดเย็นชาอยู่ในห้อง 
+https://media.vdohls.com/B-6j_vAUJnpPn/video.m3u8
 
-#EXTINF:-1 tvg-chno="254" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="254" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/11/mida00407pl-400x269.jpg",🔵 MIDA-407 สาวสุดเอ็กซ์โดนจับเย็ดตอนไปสืบยา 
+https://media.vdohls.com/l2_wEbJ-RrtvL/video.m3u8
 
-#EXTINF:-1 tvg-chno="255" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="255" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/11/adn00637pl-400x269.jpg",🔵 ADN-637 ถ่ายงานสีแหบนางแบบสยิวกิ้ว 
+https://media.vdohls.com/as_raa8d-D4Ci/video.m3u8
 
-#EXTINF:-1 tvg-chno="256" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="256" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/11/cover-t.jpg",🔵 JUY-070 ทริปพักผ่อนน้ำพุร้อนของสมาคมเพื่อนบ้าน 
+https://media.vdohls.com/byJIZ-L_PnViL/video.m3u8
 
-#EXTINF:-1 tvg-chno="257" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="257" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/11/hhkl00168pl-400x269.jpg",🔵 HHKL-168 น้องสาวโนบราแกล้งยั่วพี่จนโดนจับกด 
+https://media.vdohls.com/mn8TXMX_D-JjE/video.m3u8
 
-#EXTINF:-1 tvg-chno="258" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="258" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/11/nsfs00355pl-400x267.jpg",🔵 NSFS-355 ลูกน้องจ้องบุกอัดเจ้านาย 
+https://media.vdohls.com/SWmPeNkX_y-NR/video.m3u8
 
-#EXTINF:-1 tvg-chno="259" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="259" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/11/jur00504pl-400x269.jpg",🔵 JUR-504 ผัวใจร้ายใช้ร่างกายเมียใช้หนี้ 
+https://media.vdohls.com/BUOKO_t7A-fit/video.m3u8
 
 #EXTINF:-1 tvg-chno="260" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
