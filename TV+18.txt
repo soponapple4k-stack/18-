@@ -462,38 +462,129 @@ https://media.vdohls.com/BWv_LrDyWn-WH/video.m3u8
 #EXTINF:-1 tvg-chno="151" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2023/03/mimk00070pl-400x269.jpg",🔵 MIMK-070 ปราบผีสาวจับกระแทกจนรูบาน
 https://media.vdohls.com/F2-hY8F_IXq8g/video.m3u8
 
-#EXTINF:-1 tvg-chno="152" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+#EXTINF:-1 tvg-chno="152" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/h_066htms00029pl-400x268.jpg",🔵 HTMS-029 กลิ่นแห่งความปรารถนาของภรรยาพี่ชาย
+https://media.vdohls.com/jYh_1-GfQNge6/video.m3u8
+
+#EXTINF:-1 tvg-chno="153" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/hikr00193pl-400x268.jpg",🔵 HIKR-193 แตกสองรอบทดสอบสาวมะกัน
+https://media.vdohls.com/U-cadCMh_VgdA/video.m3u8
+
+#EXTINF:-1 tvg-chno="154" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/waaa00614pl-400x269.jpg",🔵 WAAA-614 เมื่อพ่อไปทำงาน 3 วัน
+https://media.vdohls.com/cElo-0aIZ_j6D/video.m3u8
+
+#EXTINF:-1 tvg-chno="155" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/h_1324skmj00720pl-550x374-1-400x272.jpg",🔵 SKMJ-720 จากเพื่อนที่ไม่สนิทจะเป็นแฟนได้ไหม
+https://media.vdohls.com/qqDr-ohyS_tMn/video.m3u
+
+#EXTINF:-1 tvg-chno="156" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/blk00685pl-400x269.jpg",🔵 BLK-685 หน้าจืดอยู่ห้องพยาบาลกับเพื่อน
+https://media.vdohls.com/OhW-HZC_EZXOK/video.m3u8
+
+#EXTINF:-1 tvg-chno="157" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/1nhdtc00165pl-400x268.jpg",🔵 NHDTC-165 เลขาสาวโดนจับมัดแล้วกระแทกไม่ยั้ง 
+https://media.vdohls.com/hl1-OaSGEr_QY/video.m3u8
+
+#EXTINF:-1 tvg-chno="158" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/dvmm00126pl-400x269.jpg",🔵 DVMM-126 กติกาเล่นเกมไม่ยาก
+https://media.vdohls.com/Eha_0T-XlhCPW/video.m3u8
+
+#EXTINF:-1 tvg-chno="159" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/rexd00510pl-400x269.jpg",🔵 REXD-510 ครูสาวพลิกชะตาสู่เกมรักสุดร้อนแรง
+https://media.vdohls.com/OKl-lOaZ40_vf/video.m3u8
+
+#EXTINF:-1 tvg-chno="160" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/cover-t-3.jpg",🔵 HIKR-236 สาวสายฝอกับเกมรักสุดเร่าร้อน
+https://media.vdohls.com/Ptz_ni-E0sVoJ/video.m3u8
+
+#EXTINF:-1 tvg-chno="161" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/snos00120pl-400x269.jpg",🔵 SNOS-120 ครอบครัวมีปัญหามาอยู่บ้านพ่อแทน
+https://media.vdohls.com/LrK-S_aBkJad2/video.m3u8
+
+#EXTINF:-1 tvg-chno="162" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/h_1100hzgd00327pl-400x270.jpg",🔵 HZGD-327 เมื่อคุณพ่อของผมมีเมียใหม่
+https://media.vdohls.com/YUYsI-TBj_pUZ/video.m3u8
+
+#EXTINF:-1 tvg-chno="163" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/1start00444pl-400x283.jpg",🔵 START-444 เมื่อสาวชนบทช่วยเหลือคนเมือง 
+https://media.vdohls.com/x-udAz6AB_qeN/video.m3u8
+
+#EXTINF:-1 tvg-chno="164" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/jur00353pl-400x269.jpg",🔵 JUR-353 น้องจืดดามใจแม่บ้านรุ่นใหม่ทะลวงขย้ำ
+https://media.vdohls.com/PJN_C-0sq3Ysq/video.m3u8
+
+#EXTINF:-1 tvg-chno="165" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/royd00294pl-400x269.jpg",🔵 ROYD-294 พี่สาวสุดติ๋มคนนี้ต้องมาเจอน้องชาย
+https://media.vdohls.com/sp5u-R_G17zW3/video.m3u8
+
+#EXTINF:-1 tvg-chno="166" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/11/1start00272pl-400x283.jpg",🔵 START-272 รถเสียเพลียทั้งวัน 
+https://media.vdohls.com/K7-BlK48_1vsq/video.m3u8
+
+#EXTINF:-1 tvg-chno="167" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/07/SDMM-013-400x268.jpg",🔵 SDMM-013 เสียวซ่านรถกระจกลับรักกลางเมือง
+https://media.vdohls.com/Gz-8gqInr5_dR/video.m3u8
+
+#EXTINF:-1 tvg-chno="168" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/1rctd00600pl-400x269.jpg",🔵 RCTD-600 ปาร์ตี้สุดป่วนเมื่อสาวโดนสกิลหยุดเวลา
+https://media.vdohls.com/OlgDFQ_et6-UD/video.m3u8
+
+#EXTINF:-1 tvg-chno="169" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/hikr00217pl-400x268.jpg",🔵 HIKR-21 สาวอเมริกันกับเกมรักสไตล์ญี่ปุ่น
+https://media.vdohls.com/5nf_F0zXq9-Fm/video.m3u8
+
+#EXTINF:-1 tvg-chno="170" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/1sdmm00225pl-400x269.jpg7,🔵  SDMM-225 ห้องกระจกที่ข้างนอกมองไม่เห็น
+https://media.vdohls.com/g-TV_RfJQXSiM/video.m3u8
+
+#EXTINF:-1 tvg-chno="171" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/snos00079pl-400x269.jpg",🔵 SNOS-079 ชวนอินฟูมารีวิวที่พัก
+https://media.vdohls.com/L-MK_qpgqnMae/video.m3u8
+
+#EXTINF:-1 tvg-chno="172" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2024/08/ebwh00134pl-400x269.jpg",🔵 EBWH-134 ซอยกีเพื่อนรักจับยัดมิดลำ
+https://media.vdohls.com/5j-23Vyh_0gcr/video.m3u8
+
+#EXTINF:-1 tvg-chno="173" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/118docp00259pl-400x270.jpg",🔵 DOCP-259 ถูกแฟนทิ้งไว้หน้าห้องเลยต้องช่วย 
+https://media.vdohls.com/VxFcJDuK_l-kj/video.m3u8
+
+#EXTINF:-1 tvg-chno="174" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/02/1fns00024pl-400x269.jpg",🔵 FNS-024 ลุงคนขับจับจองพนักงานส่งของคนใหม่
+https://media.vdohls.com/Lp_34-xkHxIGd/video.m3u8
+
+#EXTINF:-1 tvg-chno="175" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
-#EXTINF:-1 tvg-chno="153" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+#EXTINF:-1 tvg-chno="176" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
-#EXTINF:-1 tvg-chno="154" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+#EXTINF:-1 tvg-chno="177" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
-#EXTINF:-1 tvg-chno="155" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+#EXTINF:-1 tvg-chno="178" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
-#EXTINF:-1 tvg-chno="156" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+#EXTINF:-1 tvg-chno="179" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
-#EXTINF:-1 tvg-chno="157" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+#EXTINF:-1 tvg-chno="180" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
-#EXTINF:-1 tvg-chno="158" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+#EXTINF:-1 tvg-chno="181" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
-#EXTINF:-1 tvg-chno="159" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+#EXTINF:-1 tvg-chno="182" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
-#EXTINF:-1 tvg-chno="160" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+#EXTINF:-1 tvg-chno="183" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
-#EXTINF:-1 tvg-chno="161" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+#EXTINF:-1 tvg-chno="184" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
-#EXTINF:-1 tvg-chno="162" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+#EXTINF:-1 tvg-chno="185" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="186" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="187" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="188" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="189" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="190" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="191" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
+#EXTINF:-1 tvg-chno="192" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+
 
 
 
