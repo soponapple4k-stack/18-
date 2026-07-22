@@ -285,161 +285,162 @@ https://media.vdohls.com/3tQ_Q7G-yT40T/video.m3u8
 #EXTINF:-1 tvg-chno="90" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/DLDSS491-550x374-1-400x272.jpg",🔵 DLDSS-491 จัดหนักเอาท์ดอร์ล่อสาวมาเสียว
 https://media.vdohls.com/o_d2RC-5xp1Y1/video.m3u8
 
-#EXTINF:-1 tvg-chno="91" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
+#EXTINF:-1 tvg-chno="91" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/FNS178-550x374-1-400x272.jpg",🔵 FNS-1788 หัวหน้าสุดโหดโดนลูกน้องหนุ่มกระแทกเย็ด
+https://media.vdohls.com/BU1dj_jU-s04y/video.m3u
+
+#EXTINF:-1 tvg-chno="92" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/dass00821pl-400x269.jpg",🔵 DASS-821 หยุดเวลาเย็ดกลางรายการสด
+https://media.vdohls.com/p-fV_brOpsBva/video.m3u8
+
+#EXTINF:-1 tvg-chno="93" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/h_1324skmj00730pl-550x374-1-400x272.jpg",🔵 SKMJ-730 ไม่ว่ารถน้ำมันหรือรถไฟฟ้าหนูก็พร้อม
+https://media.vdohls.com/b2w_eplvy-4ro/video.m3u8
+
+#EXTINF:-1 tvg-chno="94" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/mmpv00002pl-400x269.jpg",🔵 MMPV-002 เมื่อน้องสาวผมชอบมาอ่านหนังสือ
+https://media.vdohls.com/jgBj_6yW-1gZg/video.m3u8
+
+#EXTINF:-1 tvg-chno="95" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/1fns00189pl-400x268.jpg",🔵 FNS-189 พี่สาวลำเค็ญจัดเอ็นแฟนน้อง
+https://media.vdohls.com/BeWzg_FQ-Sas9/video.m3u8
+
+#EXTINF:-1 tvg-chno="96" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/mida00597pl-400x269.jpg",🔵 MIDA-597 พยาบาลส่วนตัวรัวเย็ดคนไข้
+https://media.vdohls.com/ECB_1RF-UffFw/video.m3u8
+
+#EXTINF:-1 tvg-chno="97" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/jufe00250pl-400x269.jpg",🔵 JUFE-250 วาระอยากปี้บู้บี้แค่ข้ออ้าง
+https://media.vdohls.com/xYnCSo_M-d259/video.m3u8
+
+#EXTINF:-1 tvg-chno="98" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/snos00197pl-400x269.jpg",🔵 SNOS-197 สาวโรงอาบน้ำบริการสุดสวย
+https://media.vdohls.com/3W-vBr_eZl76e/video.m3u8
+
+#EXTINF:-1 tvg-chno="99" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/ipzz00830pl-400x269.jpg",🔵 IPZZ-830 วางยานอนหลับเย็ดลูกน้องสาวที่ออนเซ็น
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
-#EXTINF:-1 tvg-chno="92" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="100" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/dvmm00087pl-400x268.jpg",🔵 DVMM-087 เปลี่ยนเสื้อให้ทันใน 60 วินาที
+https://media.vdohls.com/kXj-odOB_ur9K/video.m3u8
 
-#EXTINF:-1 tvg-chno="93" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="101" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/ipzz00824pl-400x269.jpg",🔵 IPZZ-824 โค้ชข่มขืนผู้จัดการทีมฟุตบอล
+https://media.vdohls.com/vQ8_eUjwh-N7R/video.m3u8
 
-#EXTINF:-1 tvg-chno="94" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="102" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/07/sone00771pl-400x269.jpg",🔵 SONE–771 รถไฟพาเสียวลวนลามแล้วลากเย็ด
+https://media.vdohls.com/mj4tY1_cW2-pw/video.m3u8
 
-#EXTINF:-1 tvg-chno="95" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="103" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/mida00439pl-400x269.jpg",🔵 MIDA-439 เรื่องสุดท้ายก่อนรีไทร์
+https://media.vdohls.com/rlxM_TXH5-fvF/video.m3u8
 
-#EXTINF:-1 tvg-chno="96" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="104" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/DLDSS485-550x374-1-400x272.jpg",🔵 DLDSS-485 สาวกระต่ายเซ็กซี่บริการวีไอพีในร้านนวด
+https://media.vdohls.com/b34-O0kuVT_d6/video.m3u8
 
-#EXTINF:-1 tvg-chno="97" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="105" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/1start00559pl-400x283.jpg",🔵 START-559 แม่เลี้ยงสุดแซ่บโดนกระแทกเสียว
+https://media.vdohls.com/5R-FkEDJG_TMs/video.m3u8
 
-#EXTINF:-1 tvg-chno="98" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="106" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/15698.png",🔵 MIDA-407 ตำรวจเสียทีโดนย่ำยีด้วยลำเอ็น
+https://media.vdohls.com/Jkqg_kcI8f-Sp/video.m3u8
 
-#EXTINF:-1 tvg-chno="99" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="107" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/waaa00631pl-400x269.jpg",🔵 WAAA-631 เย็ดเพื่อนสนิทอยากลองเสียว
+https://media.vdohls.com/QNGdjL_BtC-uC/video.m3u8
 
-#EXTINF:-1 tvg-chno="100" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="108" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/lulu00429pl-400x269.jpg",🔵  LULU-429 ตกใจทำไมกำแพงมีรู 
+https://media.vdohls.com/PfKt-0x0s_1ew/video.m3u8
 
-#EXTINF:-1 tvg-chno="101" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="109" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/cawd00959pl-400x269.jpg",🔵 CAWD-959 โบกรถวันแรกโดนแตกเสียว
+https://media.vdohls.com/Y7-PbE3_KXsYA/video.m3u8
 
-#EXTINF:-1 tvg-chno="102" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="110" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/DLDSS486-550x374-1-400x272.jpg",🔵 DLDSS-486 พ่อจอมหื่นขืนใจลูกสะใภ้
+https://media.vdohls.com/Wr2E_EAbf-AYJ/video.m3u8
 
-#EXTINF:-1 tvg-chno="103" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="111" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/cawd00940pl-400x269.jpg",🔵 CAWD-940 รุมโทรมครูสาวในห้องพยาบาล
+https://media.vdohls.com/htw_I-2doC4F1/video.m3u8
 
-#EXTINF:-1 tvg-chno="104" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="112" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/DLDSS481-550x374-1-400x272.jpg",🔵 DLDSS-481 ครูสาวหุ่นดียอมพลีกาย
+https://media.vdohls.com/v_H-sTv3UnGNf/video.m3u8
 
-#EXTINF:-1 tvg-chno="105" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="113" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2023/10/huntb00699pl-2-400x269.jpg",🔵 HUNTB-699 เพื่อนของน้องสาวมาหลบฝนที่บ้าน 5 คน
+https://media.vdohls.com/Q62EhGhE-4_2a/video.m3u8
 
-#EXTINF:-1 tvg-chno="106" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="114" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/45666.png",🔵 MIDV-554 ฉีกหน้าสาวมั่นปั้นให้ร่าน
+https://media.vdohls.com/VDh_N-9nSBhVF/video.m3u8
 
-#EXTINF:-1 tvg-chno="107" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="115" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/1dldss00477pl-400x268.jpg",🔵 DLDSS-477 พยาบาลสุดเอ็กซ์ตรวจเช็คคนไข้
+https://media.vdohls.com/g8El6-3q_JcXN/video.m3u8
 
-#EXTINF:-1 tvg-chno="108" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="116" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/1fns00186pl-400x268.jpg",🔵 FNS-186 โดนลุงห้องขยะจับไปข่มขืนแบล็คเมล์
+https://media.vdohls.com/Oc9-od_RG3hjs/video.m3u8
 
-#EXTINF:-1 tvg-chno="109" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="117" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/ssis00878pl-1-400x269.jpg",🔵 SSIS-878 ตกรถไฟแต่ทำไมถึงโชคดี 
+https://media.vdohls.com/5_GtTi-lVYSFL/video.m3u8
 
-#EXTINF:-1 tvg-chno="110" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="118" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/1start540pl-550x374-1-400x272.jpg",🔵 START-540 เรือนจำคนบาปปราบนักโทษชายด้วยกี
+https://media.vdohls.com/ilw9zF_Db-i9D/video.m3u8
 
-#EXTINF:-1 tvg-chno="111" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="119" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/04/pfes00133pl-400x269.jpg",🔵 PFES-133 นักเรียนจากบ้านนอกโดนตอกบนรถไฟฟ้า
+https://media.vdohls.com/FIo8kdf3_i-u6/video.m3u8
 
-#EXTINF:-1 tvg-chno="112" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="120" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/huntc00158pl-400x269.jpg",🔵 HUNTC-158 มาสคอตพรีเมียร์โดนสาวรุมเสียว
+https://media.vdohls.com/pwq8b-ve2_Wti/video.m3u8
 
-#EXTINF:-1 tvg-chno="113" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="121" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/royd00100pl-400x269.jpg",🔵 ROYD-100 ปลอมตัวเป็นแฟน
+https://media.vdohls.com/9-l_ufWfkJOJ0/video.m3u8
 
-#EXTINF:-1 tvg-chno="114" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="122" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/snos00161pl-400x269.jpg",🔵 SNOS-161 สงสารคนจรโดนสอนเสียว 
+https://media.vdohls.com/U3NC0_8-CxXpn/video.m3u8
 
-#EXTINF:-1 tvg-chno="115" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="123" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/1svmgm00019pl-400x269.jpg",🔵 SVMGM-019 รถกระจกวิเศษกับหมอหนุ่มหน้าจืด
+https://media.vdohls.com/9s5Ei-rjw_d1j/video.m3u8
 
-#EXTINF:-1 tvg-chno="116" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="124" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/miaa00395pl-400x269.jpg",🔵 MIAA-395 เย็ดแม่แฟนแสนสุขใจ
+https://media.vdohls.com/WmyeVuP_Fk-mF/video.m3u8
 
-#EXTINF:-1 tvg-chno="117" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="125" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/1sdmm00228pl-400x269.jpg",🔵 SDMM-228 กล่องกระจกสุดแปลกแหวกกีเย็ด
+https://media.vdohls.com/IBDcFW_1v-sFo/video.m3u8
 
-#EXTINF:-1 tvg-chno="118" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="126" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/thumb_h.webp",🔵 SDMM-9602 แล้วจะให้เปลี่ยนเสื้อทำไม 
+https://media.vdohls.com/0-Z1lV_BzDURK/video.m3u8
 
-#EXTINF:-1 tvg-chno="119" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="127" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/waaa00323pl-400x269.jpg",🔵 WAAA-323 พี่สาวกับไอ้หน้าจืด
+https://media.vdohls.com/xeKh_Yui-idVg/video.m3u8
 
-#EXTINF:-1 tvg-chno="120" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="128" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/54896.png",🔵 JUR-615 เก็บกดอยากเลียแม่เมียช่วยบรรเทา
+https://media.vdohls.com/6wK_0Udkr-2e9/video.m3u8
 
-#EXTINF:-1 tvg-chno="121" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="129" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2024/12/sone00544pl-400x269.webp",🔵 SONE-544 เพื่อนจืดเอวไวหัวใจสั่งคราง
+https://media.vdohls.com/hRGyqr-R_drOS/video.m3u8
 
-#EXTINF:-1 tvg-chno="122" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="130" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/01/1-1-400x269.webp",🔵 PRED-722 สะใภ้สุดยั่วเจอพ่อตาล้วงกี 
+https://media.vdohls.com/R_H6Uw-afgS3Z/video.m3u8
 
-#EXTINF:-1 tvg-chno="123" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="131" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/11/juq00830pl-400x269.jpg",🔵 JUQ-830 สะใภ้ละลายใจลุง
+https://media.vdohls.com/qW26Ekl-hr_ww/video.m3u8
 
-#EXTINF:-1 tvg-chno="124" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="132" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/dass00875pl-400x269.jpg",🔵 DASS-875 เมื่อมีนักโทษสาวหลบหนี 
+https://media.vdohls.com/LjN-u_hZ4VoFw/video.m3u8
 
-#EXTINF:-1 tvg-chno="125" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="133" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/snos00146pl-400x269.jpg",🔵 SNOS-146
+ ขึ้นรถไฟกลับโดนหนุ่มใหญ่โรคจิตจับเย็ด 
+https://media.vdohls.com/nAOQlP0k-i_9B/video.m3u8
 
-#EXTINF:-1 tvg-chno="126" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="134" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/FNS104-550x374-1-400x272.jpg",🔵 FNS-104 ขอขึ้นเงินเดือนสะเทือนเสียว
+https://media.vdohls.com/J_Ul-rCx8CI1f/video.m3u8
 
-#EXTINF:-1 tvg-chno="127" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="135" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/dvmm00159pl-400x269.jpg",🔵 DVMM-159 6 ต่อ 1 กดหยุดเวลาในโรงเรียน
+https://media.vdohls.com/BP-oLX_oQOdpm/video.m3u8
 
-#EXTINF:-1 tvg-chno="128" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="136" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/1start534pl-400x268.jpg",🔵 START-534 กลิ่นเหงื่อยั่วใจน้องใภ้ยอมโดน
+https://media.vdohls.com/f0vcS_472g-uv/video.m3u8
 
-#EXTINF:-1 tvg-chno="129" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="137" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/yuj00052pl-400x269.jpg",🔵 YUJ-052 สาวโรงงานยกของกับหนุ่มสุดสตรองยกแขน
+https://media.vdohls.com/Zna-0skEsf_w9/video.m3u8
 
-#EXTINF:-1 tvg-chno="130" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="138" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/miab00600pl-400x269.jpg",🔵 MIAB-600 นาฬิกาสามารถหยุดเวลาได้
+https://media.vdohls.com/0lL_fXZx-7Ey6/video.m3u8
 
-#EXTINF:-1 tvg-chno="131" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="139" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/ebwh00297pl-400x269.jpg",🔵 EBWH-297 ลาออกจากทหารสู่วงการเอวี 
+https://media.vdohls.com/k_z-dOaLHar9m/video.m3u8
 
-#EXTINF:-1 tvg-chno="132" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="140" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/1dldss00121pl-400x268.jpg",🔵 DLDSS-121 ลุงข้างบ้านซ่อมพัดลม
+https://media.vdohls.com/k5-d_EfEVyLZC/video.m3u8
 
-#EXTINF:-1 tvg-chno="133" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="141" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/ebwh00158pl-400x269.jpg",🔵  EBWH-158 พ่อสามีป่วยช่วยกระชับมิตร
+https://media.vdohls.com/Iv_5ly40-jvQ6/video.m3u8
 
-#EXTINF:-1 tvg-chno="134" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
-
-#EXTINF:-1 tvg-chno="135" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
-
-#EXTINF:-1 tvg-chno="136" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
-
-#EXTINF:-1 tvg-chno="137" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
-
-#EXTINF:-1 tvg-chno="138" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
-
-#EXTINF:-1 tvg-chno="139" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
-
-#EXTINF:-1 tvg-chno="140" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
-
-#EXTINF:-1 tvg-chno="141" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
-
-#EXTINF:-1 tvg-chno="142" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="142" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/ipzz00801pl-400x269.jpg",🔵 IPZZ-801 โกหกแฟนว่านอนคนเดียว 
+https://media.vdohls.com/dG-SB48w_u3g7/video.m3u8
 
 #EXTINF:-1 tvg-chno="143" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
 https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
