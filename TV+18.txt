@@ -89,6 +89,7 @@ https://media.vdohls.com/8x-Tcb_G3R4Eq/video.m3u8
 https://media.vdohls.com/uijv-c_eYceL1/video.m3u8
 
 #EXTINF:-1 tvg-chno="29" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/06/ofes00044pl.w800-400x269.webp",🔵 OFES-044 ขาดเรื่องเซ็กส์โดนเช็กช่วงล่าง 
+https://media.vdohls.com/e5V-o_1axvAg6/video.m3u8
 
 #EXTINF:-1 tvg-chno="30" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/06/ofes00049pl.w800-400x269.webp",🔵 OFES-049 รอไซด์ไลน์แตกในกับพนักงานม่านรูด 
 https://media.vdohls.com/xo-EB_BMB9zPj/video.m3u8
@@ -399,8 +400,7 @@ https://media.vdohls.com/qW26Ekl-hr_ww/video.m3u8
 #EXTINF:-1 tvg-chno="132" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/dass00875pl-400x269.jpg",🔵 DASS-875 เมื่อมีนักโทษสาวหลบหนี 
 https://media.vdohls.com/LjN-u_hZ4VoFw/video.m3u8
 
-#EXTINF:-1 tvg-chno="133" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/snos00146pl-400x269.jpg",🔵 SNOS-146
- ขึ้นรถไฟกลับโดนหนุ่มใหญ่โรคจิตจับเย็ด 
+#EXTINF:-1 tvg-chno="133" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/snos00146pl-400x269.jpg",🔵 SNOS-146 ขึ้นรถไฟกลับโดนหนุ่มใหญ่โรคจิตจับเย็ด 
 https://media.vdohls.com/nAOQlP0k-i_9B/video.m3u8
 
 #EXTINF:-1 tvg-chno="134" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2026/03/FNS104-550x374-1-400x272.jpg",🔵 FNS-104 ขอขึ้นเงินเดือนสะเทือนเสียว
@@ -838,7 +838,6 @@ https://media.vdohls.com/u_4EDkmxLl-od/video.m3u8
 
 #EXTINF:-1 tvg-chno="278" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/10/nsfs00424pl-400x267.jpg",🔵 NSFS-424 ต่อหน้าเจ้านายภรรยากลายเป็นนางแบบนู้ด
 https://media.vdohls.com/m3_FhUf0-j2cI/video.m3u8
-
 
 #EXTINF:-1 tvg-chno="279" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/10/hmn00751pl-400x269.jpg",🔵 HMN-751 คุณครูคนใหม่โดนเย็ดคาสระน้ำ
 https://media.vdohls.com/xtJ_o6YzI3-po/video.m3u8
