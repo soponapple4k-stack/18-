@@ -1712,7 +1712,7 @@ https://nkplayer.space/SDJS-370_SUBAI/playlist.m3u8
 #EXTINF:-1 tvg-chno="573" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/NGOD-345_SUBAI/poster.jpg",🔴 NGOD-345 แนวนี้ก็มาชายชราเล่นแม่
 https://nkplayer.space/NGOD-345_SUBAI/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="574" group-title="Av Nosub 🇯🇵" tvg-logo="Https://nkplayer.space/START-152_SUBAI/poster.jpg",🔴 START-152 ร่วมก๊วนตอนหลับทวินอัพพี่น้อง
+#EXTINF:-1 tvg-chno="574" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/START-152_SUBAI/poster.jpg",🔴 START-152 ร่วมก๊วนตอนหลับทวินอัพพี่น้อง
 https://nkplayer.space/START-152_SUBAI/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="575" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/OFES-045_SUBAI/poster.jpg",🔴 OFES-045 เล่นหัวโดนหางเข้าทางสายดำ
