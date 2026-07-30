@@ -1442,8 +1442,123 @@ https://media.vdohls.com/OyOgokyQ-V_Ni/video.m3u8
 #EXTINF:-1 tvg-chno="483" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/04/mida00126pl-400x269.jpg",🔵 MIDA-126 จองตั๋วหนังอย่านั่งตรงกลาง 
 https://media.vdohls.com/ThF1-RHz7_84G/video.m3u8
 
-#EXTINF:-1 tvg-chno="416" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔵 ชื่อเรื่อง
-https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
+#EXTINF:-1 tvg-chno="484" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/ROE-527_SUBAI/poster.jpg",🔴 ฟิวส์ขาดไฟดับคว้าหมับเพื่อนลูก
+https://nkplayer.space/ROE-527_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="485" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/JUR-812_SUBAI/poster.jpg",🔴 เบ้แซะร่องผัวบกพร่องหน้าที่
+https://nkplayer.space/JUR-812_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="486" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/ROYD-333_SUBAI/poster.jpg",🔴 ฟิตแอนด์เฟิร์มโยกเติมบ้องหลาน
+https://nkplayer.space/ROYD-333_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="487" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/SNOS-308_SUBAI/poster.jpg",🔴 วนหลูปหอพักใจมักพี่สาวโนตม
+https://nkplayer.space/SNOS-308_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="488" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/AGAV-172_SUBAI/poster.jpg",🔴 แว่นหนาห้าหกชอบตกแม่เลขา
+https://nkplayer.space/AGAV-172_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="489" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/PRED-880_SUBAI/poster.jpg",🔴 งัดจกหกเกลื่อนดิบเถื่อนพ่อสามี
+https://nkplayer.space/PRED-880_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="490" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/NSFS-192_SUBAI/poster.jpg",🔴 ติ๊กเลือกเจ้านายทลายป้อมเมีย
+https://nkplayer.space/NSFS-192_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="491" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/NKKD-364_SUBAI/poster.jpg",🔴 สองเต้าเลี้ยงลูกบนฟูกมีไออุ่น
+https://nkplayer.space/NKKD-364_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="492" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/NGOD-349_SUBAI/poster.jpg",🔴 ไม่สนสังคมกอดดมแม่เลี้ยง
+https://nkplayer.space/NGOD-349_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="493" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/NACT-156_SUBAI/poster.jpg",🔴 เปิดมุกห้องเต็มอิ่มเอมหัวหน้าสาว
+https://nkplayer.space/NACT-156_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="494" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/KIR-078_SUBAI/poster.jpg",🔴 บั้นเอวพิฆาตอาละวาดเจ้านาย
+https://nkplayer.space/KIR-078_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="495" group-title="Av Nosub 🇯🇵" tvg-logo="https://1av-jav.com/poster_ROYD-332.jpg",🔴 เพื่อนซี้ชนท้องรับรองดูแล้วฟิน
+https://nkplayer.space/ROYD-332_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="496" group-title="Av Nosub 🇯🇵" tvg-logo="https://1av-jav.com/poster_ROE-517.jpg",🔴 อุ๊ยผ้าขนหนูจะหลุดยั่วสุดคุณป้า
+https://nkplayer.space/ROE-517_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="497" group-title="Av Nosub 🇯🇵" tvg-logo="https://1av-jav.com/poster_DSOD-029.jpg",🔴 แม่เลี้ยงรุกหนักหนุบหนับเอ็นอุ่น
+https://nkplayer.space/DSOD-029_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="498" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/DLDSS-513_SUBAI/poster.jpg",🔴 ตกลงปลงกายคุณนายมีเหตุผล
+https://nkplayer.space/DLDSS-513_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="499" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/NACT-153_SUBAI/poster.jpg",🔴 แปลกหน้าตรงใจแตกในไม่ว่ากัน
+https://nkplayer.space/NACT-153_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="500" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/JUFE-624_SUBAI/poster.jpg",🔴 นวดจับเส้นแข็งท่อนเอ็นมุดรู
+https://nkplayer.space/JUFE-624_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="501" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/PRWF-014_SUBAI/poster.jpg",🔴 ขาวแสดแสบตาภรรยาสมาคม
+https://nkplayer.space/PRWF-014_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="502" group-title="Av Nosub 🇯🇵" tvg-logo="https://1av-jav.com/poster_MXGS-1437.jpg",🔴 อัดอั้นเต็มสูบทะลวงจูบแม่แฟน
+https://nkplayer.space/MXGS-1437_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="503" group-title="Av Nosub 🇯🇵" tvg-logo="https://1av-jav.com/poster_clot-040.jpg",🔴 คอนเซ็ปต์ถุงน่องยาวสุดปังหัวหน้านอกกระแส
+https://nkplayer.space/CLOT-040_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="504" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/ABF-361_SUBAI/poster.jpg",🔴 ติดชายผมขาวความสาวยกให้ลุง
+https://nkplayer.space/ABF-361_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="505" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/START-608_SUBAI/poster.jpg",🔴 อาการสุดระยะสู้วิกฤตหนักคุณพยาบาล
+https://nkplayer.space/START-608_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="506" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/DASS-947_SUBAI/poster.jpg",🔴 เกินหึงหวงพ่อทะลวงเมียผมเฉยเลย
+https://nkplayer.space/DASS-947_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="507" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/KSBJ-437_SUBAI/poster.jpg",🔴 ไต่เต้าเพื่อลูกกอดฟูกโรงเรียนดัง
+https://nkplayer.space/KSBJ-437_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="508" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/JUR-714_SUBAI/poster.jpg",🔴 แต่งใหม่ใจคับน้อมรับแม่เลี้ยง
+https://nkplayer.space/JUR-714_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="509" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/VENX-377_SUBAI/poster.jpg",🔴 สูดดมขมคอลิงจ๋อมนุษย์ป้า
+https://nkplayer.space/VENX-377_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="510" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/HMN-892_SUBAI/poster.jpg",🔴 ก่อนแต่งปิ้งย่างเสียบร่างพ้องเพื่อน
+https://nkplayer.space/HMN-892_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="511" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/MFYD-160_SUBAI/poster.jpg",🔴 เหล็กท่อนขาวพี่สาวช่างกลึง
+https://nkplayer.space/MFYD-160_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="512" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/JUR-746_SUBAI/poster.jpg",🔴 โอทีนอกออฟฟิศรูดมิดติดเป้า
+https://nkplayer.space/JUR-746_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="513" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/MIDA-709_SUBAI/poster.jpg",🔴 เอ๊ะอะจับกดทรหดครูหุ่นอึ๋ม
+https://nkplayer.space/MIDA-709_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="514" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/JUR-817_SUBAI/poster.jpg",🔴 ตอบรับคนเหงาจูงเขาเข้าบ้าน
+https://nkplayer.space/JUR-817_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="515" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/NSFS-492_SUBAI/poster.jpg",🔴 เจ้านายเร่งรอบส่งมอบเมียรัก
+https://nkplayer.space/NSFS-492_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="516" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/MKMP-735_SUBAI/poster.jpg",🔴 หมุนเอวอู้อ้าคุณน้าหมกตัว
+https://nkplayer.space/MKMP-735_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="517" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/GVH-859.GPT_SUBAI/poster.jpg",🔴 ทรงอย่างเข้มโดนเล็มไม่มีเหลือ
+https://nkplayer.space/GVH-859.GPT_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="518" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/EBWH-342_SUBAI/poster.jpg",🔴 ขายสดงดเชื่อเข้าเนื้อมินิมาร์ท
+https://nkplayer.space/EBWH-342_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="519" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/DVAJ-747_SUBAI/poster.jpg",🔴 น้ำเปื้อนคลิปทริปเมียเฉิดฉาย
+https://nkplayer.space/DVAJ-747_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="520" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/ALDN-599_SUBAI/poster.jpg",🔴 คุณลุงลัคกี้กุชชี่มาโปรด
+https://nkplayer.space/ALDN-599_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="521" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/ROE-526_SUBAI/poster.jpg",🔴 แฟนลูกคลายทุกข์ความสุขรอบเอว
+https://nkplayer.space/ROE-526_SUBAI/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="522" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/PRED-886_SUBAI/poster.jpg",🔴 พี่สาวแฟนโคตะระไม่ลดละความกระหาย
+https://nkplayer.space/PRED-886_SUBAI/playlist.m3u8
+
 
 
 
