@@ -1559,6 +1559,8 @@ https://nkplayer.space/ROE-526_SUBAI/playlist.m3u8
 #EXTINF:-1 tvg-chno="522" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/PRED-886_SUBAI/poster.jpg",🔴 พี่สาวแฟนโคตะระไม่ลดละความกระหาย
 https://nkplayer.space/PRED-886_SUBAI/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="523" group-title="Av Nosub 🇯🇵" tvg-logo="รูป",🔴 ชื่อเรื่อง
+https://media.vdohls.com/H-l75R2RPJ_6k/video.m3u8
 
 
 
