@@ -1025,7 +1025,7 @@ https://media.vdohls.com/jV2Af_MHX-QQt/video.m3u8
 #EXTINF:-1 tvg-chno="340" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/08/h_1814nmsl00014pl-400x284.jpg",🔵 NMSL-014 ผัวห่วยไม่ซั่มเมียจัดหนักกับชายข้างห้อง 
 https://media.vdohls.com/kw1dWUy_yi-NC/video.m3u8
 
-#EXTINF:-1 tvg-chno="341" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/08/ofes00003pl-400x269.jp",🔵 OFES-003g พี่สาวยั่วกางเกงในดำทำหัวใจสั่น 
+#EXTINF:-1 tvg-chno="341" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/08/ofes00003pl-400x269.jpg",🔵 OFES-003 พี่สาวยั่วกางเกงในดำทำหัวใจสั่น 
 https://media.vdohls.com/8g-JsV_149f9L/video.m3u8
 
 #EXTINF:-1 tvg-chno="342" group-title="Av Nosub 🇯🇵" tvg-logo="https://avminox.com/wp-content/uploads/2025/08/pred00526pl-400x269.jpg",🔵 PRED-526 ครูสาวขาสวยโดนควยนักเรียน 
