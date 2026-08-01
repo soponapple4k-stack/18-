@@ -2414,7 +2414,7 @@ https://nkplayer.space/EBWH-323_SUBAVC_hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="807" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/MOIL-001_SUBAI_hls/poster.jpg",🔴 เก็บครบทั้งตี้งานปี้ในครัวเรือน
 https://nkplayer.space/MOIL-001_SUBAI_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="808" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/HSODA-097_SUBAI_hls/poster.jp",🔴 หวานน้ำตาลอายไม่วายรักแม่เพื่อน
+#EXTINF:-1 tvg-chno="808" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/HSODA-097_SUBAI_hls/poster.jpg",🔴 หวานน้ำตาลอายไม่วายรักแม่เพื่อน
 https://nkplayer.space/HSODA-097_SUBAI_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="809" group-title="Av Nosub 🇯🇵" tvg-logo="https://nkplayer.space/NSFS-271_SUBAI_hls/poster.jpg",🔴 ชัตเตอร์เกียร์กระตุกความสุขหน้ากล้อง
