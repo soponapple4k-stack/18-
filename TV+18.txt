@@ -2900,14 +2900,15 @@ https://vod1.stream25.com/%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%AD
 #EXTINF:-1 tvg-chno="02" group-title="XThai 🇹🇭" tvg-logo="https://bbk100.xyz/media/cache/strip/202512/movie/b7fe63a140d2a3d92970757d107a1aeb.webp",🟣 น้องแอม ลีลาโชว์เรือนร่างสุดเซ็กซี่แบบจัดเต็ม
 https://vod1.stream25.com/%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%AD%E0%B8%A1-amam7078-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B9%82%E0%B8%94%E0%B9%89%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88-%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%99%E0%B8%A1%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%A2%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B2-%E0%B8%82%E0%B8%A2%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%9E%E0%B8%B1%E0%B8%81.mp4.m3u8
 
-#EXTINF:-1 tvg-chno="03" group-title="XThai 🇹🇭" tvg-logo="รูป",🟣ชื่อเรื่อง
-https://media.vdohls.com/6wK_0Udkr-2e9/video.m3u8
+#EXTINF:-1 tvg-chno="03" group-title="XThai 🇹🇭" tvg-logo="https://bbk100.xyz/media/cache/strip/202512/movie/18398f36749724dd68882f27fdf17307.webp",🟣น้องแอม  เปิดซีนเดือดแรงสะใจ ทุกจังหวะทำเอาตัวงอ 
+https://vod1.stream25.com/%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%AD%E0%B8%A1-amam7078-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%8B%E0%B8%B4%E0%B8%87%E0%B8%94%E0%B8%B4%E0%B8%AA%E0%B9%82%E0%B8%94%E0%B9%89%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%B0%E0%B9%83%E0%B8%88-%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%87%E0%B8%AD%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B0-%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94%E0%B8%94%E0%B8%B4%E0%B8%9A%E0%B8%88%E0%B8%99%E0%B9%83%E0%B8%88%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%99-%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B7%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A5%E0%B8%B2%E0%B8%A2.mp4.m3u8
 
-#EXTINF:-1 tvg-chno="04" group-title="XThai 🇹🇭" tvg-logo="รูป",🟣ชื่อเรื่อง
-https://media.vdohls.com/6wK_0Udkr-2e9/video.m3u8
 
-#EXTINF:-1 tvg-chno="05" group-title="XThai 🇹🇭" tvg-logo="รูป",🟣ชื่อเรื่อง
-https://media.vdohls.com/6wK_0Udkr-2e9/video.m3u8
+#EXTINF:-1 tvg-chno="04" group-title="XThai 🇹🇭" tvg-logo="https://bbk100.xyz/media/cache/strip/202409/movie/af991a0e8b208634c6f4889258606fc9.webp",🟣น้องแอม เลขาสาวสวยกับบอสสุดรวย ทรุดลงไปอมควย จบด้วยแตกเต็มหน้า
+https://ezmovie4k.com/cdn/hls/2ba3b418408727fb4111a295469706e8/master.txt
+
+#EXTINF:-1 tvg-chno="05" group-title="XThai 🇹🇭" tvg-logo="https://bbk100.xyz/media/cache/strip/202409/movie/788f6cd4375d9e682df04e8371c5fa64.webp",🟣น้องแอม  นัดผู้ชายมาอมควยที่โรงแรม เย็ดแบบโหดระห่ำ 
+https://ezmovie4k.com/cdn/hls/ba83f1bef7b67a89a32da18caa8fec1d/master.txt
 
 #EXTINF:-1 tvg-chno="06" group-title="XThai 🇹🇭" tvg-logo="รูป",🟣ชื่อเรื่อง
 https://media.vdohls.com/6wK_0Udkr-2e9/video.m3u8
